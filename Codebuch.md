@@ -36,7 +36,9 @@
 -  Unterscheidung des Knotentyps:
 
 1 = Person (Kandidat, Coach, Producer, Songwriter)
+
 2 = Organisation (Plattenlabel)
+
 3 = Show (andere Show, wie Sing meinen Song, Reality TV, ESC, DSDS)
 
 
