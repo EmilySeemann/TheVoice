@@ -93,7 +93,7 @@
 **showkategorie**
 - In welcher Art von Shows war der Kandidat nach The Voice?
 
-1 = Musikshows (ESC, Sing meinen Song, The Masked Singer, DSDS)
+1 = Musikshows - sowohl Kandidat als auch Juror (The Voice Kids, ESC, Sing meinen Song, The Masked Singer, DSDS)
 
 2 = Realityshows (Are you the one, Love Island, Bachelor/Bachelorette, Ex on the Beach, Dschungelcamp, etc... )
 
