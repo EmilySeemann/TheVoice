@@ -54,8 +54,43 @@
 - In welcher Staffel hat der Kandidat/Coach teilgenommen (Staffel 1 bis 10)
 
 **team**
+- In welchem Team war der jeweilige Kandidat?
+  
+1 = The BossHoss
 
+2 = Nena
 
+3 = Rea Garvey
+
+4 = Xavier Naidoo
+
+5 = Max Herre 
+
+6 = Samu Haber
+
+7 = Fanta Vier 
+
+8 = Stefanie Kloß
+
+9 = Andreas Bourani
+
+10 = Yvonne Catterfeld 
+
+11 = Mark Forster
+
+12 = Michael Patrick Kelly 
+
+13 = Nico Santos 
+
+14 = Alice Merton
+
+15 = Sido
+
+16 = Stefanie Kloß und Yvonne Catterfeld
+
+17 = Samu Haber und Rea Garvey
+
+18 = Michael Schulte
 
 
 
