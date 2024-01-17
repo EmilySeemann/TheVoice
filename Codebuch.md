@@ -106,6 +106,8 @@
 
 3 = 3-6 Songs in den deutschen Charts
 
+4 = Mehr als 6 Songs in den deutschen Charts
+
 
 
 
