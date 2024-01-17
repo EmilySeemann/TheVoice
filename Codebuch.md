@@ -8,7 +8,7 @@
 # Edge-Attribute
 
 **from**
-- iniitierender Knoten, in diesem Fall: Halbfinalist/Coach einer The Voice of Germany Staffel (Staffel 1 bis 10) 
+- iniitierender Knoten, in diesem Fall: Halbfinalist/Coach einer The Voice of Germany Staffel (Staffel 1 bis 6) 
 
 **to**
 - erhaltender Knoten, in diesem Fall: Coach, Plattenlabel, Producer,andere TV-Shows
@@ -49,7 +49,7 @@
 3 = divers (gilt auch für gemischte Teams)
 
 **staffel**
-- In welcher Staffel hat der Kandidat/Coach teilgenommen (Staffel 1 bis 10)
+- In welcher Staffel hat der Kandidat/Coach teilgenommen (Staffel 1 bis 6)
 
 **team**
 - In welchem Team war der jeweilige Kandidat?
