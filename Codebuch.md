@@ -93,9 +93,22 @@
 **showkategorie**
 - In welcher Art von Shows war der Kandidat nach The Voice?
 
-1 = Musikshows (ESC, Sing meinen Song, DSDS)
+1 = Musikshows (ESC, Sing meinen Song, The Masked Singer, DSDS)
 
-2 = Realityshows (Are you the one, Love Island, Der Bachelor/Bachelorette, Ex on the Beach, ... )
+2 = Realityshows (Are you the one, Love Island, Der Bachelor/Bachelorette, Ex on the Beach, Dschungelcamp, etc... )
+
+**charts**
+- Wie viele Songs waren in den deutschen Charts?
+
+1 = 0-1 Songs in den deutschen Charts
+
+2 = 1-3 Songs in den deutschen Charts
+
+3 = 3-6 Songs in den deutschen Charts
+
+
+
+
 
 
 
