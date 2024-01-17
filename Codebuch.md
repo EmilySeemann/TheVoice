@@ -92,6 +92,14 @@
 
 18 = Michael Schulte
 
+**showkategorie**
+- In welcher Art von Shows war der Kandidat nach The Voice?
+
+1 = Musikshows (ESC, Sing meinen Song, DSDS)
+
+2 = Realityshows (Are you the one, Love Island, Der Bachelor/Bachelorette, Ex on the Beach, ... )
+
+
 
 
 
