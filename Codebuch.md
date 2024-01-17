@@ -100,11 +100,11 @@
 **charts**
 - Wie viele Songs waren in den deutschen Charts?
 
-1 = 0-1 Songs in den deutschen Charts
+1 = 0 Songs in den deutschen Charts
 
 2 = 1-3 Songs in den deutschen Charts
 
-3 = 3-6 Songs in den deutschen Charts
+3 = 4-6 Songs in den deutschen Charts
 
 4 = Mehr als 6 Songs in den deutschen Charts
 
