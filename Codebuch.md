@@ -41,6 +41,23 @@
 
 3 = Show (andere Show, wie Sing meinen Song, Reality TV, ESC, DSDS)
 
+**sex**
+-  Geschlecht der Akteure:
+
+1 = weiblich
+
+2 = männlich 
+
+3 = divers (gilt auch für gemischte Teams)
+
+**staffel**
+- In welcher Staffel hat der Kandidat/Coach teilgenommen (Staffel 1 bis 10)
+
+**team**
+
+
+
+
 
 
 
