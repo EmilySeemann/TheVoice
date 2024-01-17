@@ -17,8 +17,11 @@
 - definiert die Art der Beziehung bei multiplexen Netzwerken mit verschiedenen Beziehungsarten, in diesem Fall:
   
 1 = Kandidaten haben in derselben The Voice Staffel teilgenommen
+
 2 = Coaches haben in derselben The Voice Staffel teilgenommen
+
 3 = Coach-Kandidat-Beziehung
+
 4 = Arbeitsverhältnis
 
 # Node-Attribute
