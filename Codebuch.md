@@ -11,7 +11,7 @@
 - iniitierender Knoten, in diesem Fall: Halbfinalist/Coach einer The Voice of Germany Staffel (Staffel 1 bis 10) 
 
 **to**
-- erhaltender Knoten, in diesem Fall: Coach, Plattenlabel, Producer, Songwriter, andere TV-Shows
+- erhaltender Knoten, in diesem Fall: Coach, Plattenlabel, Producer,andere TV-Shows
 
 **relation**
 - definiert die Art der Beziehung bei multiplexen Netzwerken mit verschiedenen Beziehungsarten, in diesem Fall:
@@ -33,7 +33,7 @@
 **type**
 -  Unterscheidung des Knotentyps:
 
-1 = Person (Kandidat, Coach, Producer, Songwriter)
+1 = Person (Kandidat, Coach, Producer)
 
 2 = Organisation (Plattenlabel)
 
