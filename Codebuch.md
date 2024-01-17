@@ -20,9 +20,7 @@
 
 2 = Coaches haben in derselben The Voice Staffel teilgenommen
 
-3 = Coach-Kandidat-Beziehung
-
-4 = Arbeitsverhältnis
+3 = Arbeitsverhältnis
 
 # Node-Attribute
 
