@@ -1,5 +1,7 @@
 # Karrierewege der The Voice of Germany Kandidaten
 
+## Wer hat sich in der Musikbranche durch relevante Verbindungen zu anderen Künstlern, Produzenten, Labels und/oder anderen Show etabliert?
+
 ## Inhalt
 - Edges.csv (Edgelist)
 - Nodes.csv (Nodelist)
@@ -123,6 +125,19 @@
 3 = 4-6 Songs in den deutschen Charts
 
 4 = Mehr als 6 Songs in den deutschen Charts
+
+**platz**
+- Welchen Platz hat der Kandidat im Finale belegt?
+
+1 = Platz 1
+
+2 = Platz 2
+
+3 = Platz 3
+
+4 = Platz 4 
+
+5 = Platz 5 
 
 
 
