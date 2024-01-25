@@ -17,15 +17,14 @@
 
 **relation**
 - definiert die Art der Beziehung bei multiplexen Netzwerken mit verschiedenen Beziehungsarten, in diesem Fall:
-  
-1 = Kandidaten haben in derselben The Voice Staffel teilgenommen
 
-2 = Coaches haben in derselben The Voice Staffel teilgenommen
+1 = Person hat als Kandidat teilgenommen (gilt sowohl für The Voice, als auch für andere Shows) 
+
+2 = Person hat als Coach teilgenommen (gilt sowohl für The Voice, als auch für andere Shows) 
 
 3 = Coach-Kandidat-Beziehung
 
-3 = Arbeitsverhältnis
-
+4 = Arbeitsverhältnis
 
 # Node-Attribute
 
