@@ -38,11 +38,15 @@
 **type**
 -  Unterscheidung des Knotentyps:
 
-1 = Person (Kandidat, Coach, Producer, andere Sänger)
+1 = Kandidat
 
 2 = Organisation (Plattenlabel)
 
 3 = Show (andere Show, wie Sing meinen Song, Reality TV, ESC, DSDS)
+
+4 = Coach 
+
+5 = Andere (zum Beispiel Producer, andere Sänger, Songwriter)
 
 **sex**
 -  Geschlecht der Akteure:
