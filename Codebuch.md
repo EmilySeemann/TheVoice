@@ -90,6 +90,22 @@
 
 18 = Michael Schulte
 
+19 = Johannes Oerding
+
+20 = Sarah Connor
+
+21 = Elif Demirecer 
+
+22 = Peter Maffay
+
+23 = Giovanni Zarella
+
+24 = Bill & Tom Kaulitz
+
+25 = Shirin David
+
+26 = Ronan Keating
+
 **showkategorie**
 - In welcher Art von Shows war der Kandidat nach The Voice?
 
