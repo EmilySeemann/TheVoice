@@ -60,9 +60,9 @@
 - In welcher Staffel hat der Kandidat/Coach teilgenommen (Staffel 1 bis 13)
 
 **showkategorie**
-- In welcher Art von Shows war der Kandidat nach The Voice?
+- Um welcher Art von Show handelt es sich?
 
-1 = Musikshows - sowohl Kandidat als auch Juror (The Voice Kids, ESC, Sing meinen Song, The Masked Singer, DSDS)
+1 = Musikshows (The Voice Kids, ESC, Sing meinen Song, The Masked Singer, DSDS)
 
 2 = Realityshows (Are you the one, Love Island, Bachelor/Bachelorette, Ex on the Beach, Dschungelcamp, etc... )
 
