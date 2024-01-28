@@ -22,9 +22,11 @@
 
 2 = Person hat als Coach teilgenommen (gilt sowohl für The Voice, als auch für andere Shows) 
 
-3 = Coach-Kandidat-Beziehung
+3 = Kandidat-Kandidat-Beziehung (Kandidaten haben in der gleichen Staffel teilgenommen)
 
-4 = Arbeitsverhältnis
+4 = Coach-Kandidat-Beziehung
+
+5 = Arbeitsverhältnis
 
 # Node-Attribute
 
