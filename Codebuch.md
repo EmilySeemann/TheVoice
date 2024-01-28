@@ -60,7 +60,7 @@
 - In welcher Staffel hat der Kandidat/Coach teilgenommen (Staffel 1 bis 13)
 
 **showkategorie**
-- Um welcher Art von Show handelt es sich?
+- Um welche Art von Show handelt es sich?
 
 1 = Musikshows (The Voice Kids, ESC, Sing meinen Song, The Masked Singer, DSDS)
 
