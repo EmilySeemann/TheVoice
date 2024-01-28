@@ -47,6 +47,8 @@
 
 5 = Andere (zum Beispiel Producer, andere Sänger, Songwriter)
 
+6 = Staffel
+
 **sex**
 -  Geschlecht der Akteure:
 
