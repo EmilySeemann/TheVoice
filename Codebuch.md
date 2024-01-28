@@ -41,7 +41,7 @@
 
 2 = Organisation (Plattenlabel)
 
-3 = Show (andere Show, wie Sing meinen Song, Reality TV, ESC, DSDS)
+3 = Show (The Voice of Germany, andere Show, wie Sing meinen Song, Reality TV, ESC, DSDS)
 
 4 = Coach 
 
