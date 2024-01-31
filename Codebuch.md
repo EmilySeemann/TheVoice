@@ -68,7 +68,9 @@
 
 1 = Musikshows (The Voice Kids, ESC, Sing meinen Song, The Masked Singer, DSDS)
 
-2 = Realityshows (Are you the one, Love Island, Bachelor/Bachelorette, Ex on the Beach, Dschungelcamp, etc... )
+2 = Realityshows (Are you the one, Love Island, Bachelor/Bachelorette, Ex on the Beach, Dschungelcamp, etc... 
+
+3 = Fernsehen/Film (Schauspiel)
 
 **charts**
 - Wie viele Songs waren in den deutschen Charts?
