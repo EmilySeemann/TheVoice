@@ -28,6 +28,15 @@
 
 5 = Arbeitsverhältnis
 
+**time**
+- Wann hatten die Akteure (impliziert auch Shows) das erste Mal miteinander Kontakt?
+
+1 = erstes Jahr nach Beendigung der Show
+
+2 = im zweiten und dritten Jahr nach Beendigung der Show
+
+3 = nach vier Jahren nach Beendigung der Show
+
 # Node-Attribute
 
 **id**
