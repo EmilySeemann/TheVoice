@@ -30,12 +30,14 @@
 
 **time**
 - Wann hatten die Akteure (impliziert auch Shows) das erste Mal miteinander Kontakt?
+  
+1 = Während der Show
 
-1 = erstes Jahr nach Beendigung der Show
+2 = erstes Jahr nach Beendigung der Show
 
-2 = im zweiten und dritten Jahr nach Beendigung der Show
+3 = im zweiten und dritten Jahr nach Beendigung der Show
 
-3 = nach vier Jahren nach Beendigung der Show
+4 = nach vier Jahren nach Beendigung der Show
 
 # Node-Attribute
 
