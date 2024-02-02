@@ -29,7 +29,7 @@
 5 = Arbeitsverhältnis
 
 **time**
-- Wann hatten die Akteure (impliziert auch Shows) das erste Mal miteinander Kontakt?
+- Wann hatten die Akteure (impliziert auch Shows) ab The Voice das erste Mal miteinander Kontakt?
   
 1 = Während der Show
 
