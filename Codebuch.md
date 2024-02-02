@@ -46,9 +46,9 @@
 - Name oder Bezeichnung des Knotens
 
 **type**
--  Unterscheidung des Knotentyps:
+-  Unterscheidung des Knotentyps (wir beziehen uns hier auf die Rolle, die die jeweilige Person in unserem Netzwerk als erstes hatte):
 
-1 = Kandidat
+1 = Kandidat 
 
 2 = Organisation (Plattenlabel)
 
