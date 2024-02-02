@@ -1,6 +1,6 @@
-# Karrierewege der The Voice of Germany Kandidaten
+# Karrierewege der The Voice of Germany Kandidat*innen
 
-## Wer hat sich in der Musikbranche durch relevante Verbindungen zu anderen Künstlern, Produzenten, Labels und/oder anderen Show etabliert?
+## Welche Verbindungen bestehen zwischen den Finalist*innen und anderen Künstler*innen, Produzent*innen, Labels und/oder anderen Show?
 
 ## Inhalt
 - Edges.csv (Edgelist)
