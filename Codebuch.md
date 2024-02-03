@@ -77,9 +77,6 @@
 
 3 = divers (gilt auch für gemischte Teams)
 
-**staffel**
-- In welcher Staffel hat der Kandidat/Coach teilgenommen (Staffel 1 bis 13)
-
 **showkategorie**
 - Um welche Art von Show handelt es sich?
 
