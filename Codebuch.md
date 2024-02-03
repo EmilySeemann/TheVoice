@@ -49,15 +49,22 @@
 **type**
 -  Unterscheidung des Knotentyps (wir beziehen uns hier auf die Rolle, die die jeweilige Person in unserem Netzwerk als erstes hatte):
 
+1 = Person 
+
+2 = Organisation
+
+**roles**
+- Unterscheidung der jeweiligen Rolle eines Knotens: 
+
 1 = Kandidat 
 
-2 = Organisation (Plattenlabel)
+2 = Plattenlabel
 
 3 = Show (The Voice of Germany, andere Show, wie Sing meinen Song, Reality TV, ESC, DSDS)
 
 4 = Coach 
 
-5 = Andere (zum Beispiel Producer, andere Sänger, Songwriter)
+5 =  Musikschöpfer (Producer, andere Sänger, Songwriter)
 
 6 = Staffel
 
