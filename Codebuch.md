@@ -56,17 +56,17 @@
 **roles**
 - Unterscheidung der jeweiligen Rolle eines Knotens: 
 
-1 = Kandidat 
+1 = Kandidat (gilt für egal welche Show)
 
 2 = Plattenlabel
 
 3 = Show (The Voice of Germany, andere Show, wie Sing meinen Song, Reality TV, ESC, DSDS)
 
-4 = Coach 
+4 = Coach/Juror (gilt für egal welche Show)
 
-5 =  Musikschöpfer (Producer, andere Sänger, Songwriter)
+5 = Musikschöpfer (Producer, andere Sänger, Songwriter)
 
-6 = Staffel
+6 = Staffel (bezieht sich nur auf The Voice of Germany)
 
 **sex**
 -  Geschlecht der Akteure:
@@ -98,7 +98,7 @@
 4 = Mehr als 6 Songs in den deutschen Charts
 
 **platz**
-- Welchen Platz hat der Kandidat im Finale belegt?
+- Welchen Platz hat der Kandidat im Finale von The Voice of Germany belegt?
 
 1 = Platz 1
 
