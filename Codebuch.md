@@ -22,7 +22,7 @@
 
 2 = Person hat als Coach teilgenommen (gilt sowohl für The Voice, als auch für andere Shows) 
 
-3 = Kandidat-Kandidat-Beziehung (Kandidaten haben in der gleichen Staffel teilgenommen)
+3 = Kandidat-Kandidat-Beziehung (Kandidaten haben in der gleichen Staffel einer selben Show teilgenommen)
 
 4 = Coach-Kandidat-Beziehung
 
