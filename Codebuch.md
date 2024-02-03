@@ -26,7 +26,7 @@
 
 4 = Coach-Kandidat-Beziehung
 
-5 = Arbeitsverhältnis
+5 = Arbeitsverhältnis (Kollaboration oder Zusammenarbeit an einem gemeinsamen Projekt/Song/Show/etc. , Beispiel: Ivy Quainoo hatte einen Gesangsauftritt bei Schlag den Raab)
 
 **year**
 - Wann hatten die Akteure (impliziert auch Shows) ab The Voice das erste Mal miteinander Kontakt?
