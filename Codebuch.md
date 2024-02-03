@@ -28,16 +28,10 @@
 
 5 = Arbeitsverhältnis
 
-**time**
+**year**
 - Wann hatten die Akteure (impliziert auch Shows) ab The Voice das erste Mal miteinander Kontakt?
-  
-1 = Während der Show
+- Jahreszahl wird mit vier Ziffern angegeben 
 
-2 = erstes Jahr nach Beendigung der Show
-
-3 = im zweiten und dritten Jahr nach Beendigung der Show
-
-4 = nach vier Jahren nach Beendigung der Show
 
 # Node-Attribute
 
