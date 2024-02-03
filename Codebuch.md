@@ -110,11 +110,11 @@
 
 5 = Platz 5 
 
-**Monatliche Höhrer auf Spotify**
+**monatliche Höhrer auf Spotify**
 - Wie viele monatliche Höhrer haben die ehemaligen The Voice of Germany FinalistInnen auf Spotify? (Stand Februar 2024)
 - Monatliche Höhrer werden als Ziffer ohne Punkte oder Kommas angegeben (z.B. 5,8 Millionen: 5800000/ z.B. 23.011: 23011) 
 
-**Instagram Follower**
+**instagram Follower**
 - Wie viele Instagram Follower haben die ehemaligen The Voice of Germany FinalistInnen? (Stand Februar 2024)
 - Follower werden als Ziffer ohne Punkte oder Kommas angegeben (z.B. 374 Tsd: 374000)
 
