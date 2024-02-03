@@ -87,7 +87,7 @@
 3 = Fernsehen/Film (Schauspiel)
 
 **charts**
-- Wie viele Songs waren in den deutschen Charts?
+- Wie viele Songs waren in den deutschen Top 100 Single- und Album-Charts?
 
 1 = 0 Songs in den deutschen Charts
 
