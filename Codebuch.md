@@ -38,7 +38,7 @@
 **id**
 - eindeutige Identifikation jedes einzelnen Knotens (vertex), der erfasst wird:
 - ID setzt sich zusammen aus dem ersten Buchstaben des Vor- und Nachnamens (z.B. Michael Schulte: ms)
-- Wenn es die ID schon gibt setzt sich die ID aus den ersten zwei Buchstaben des Vornamens und dem ersten Buchstaben des Nachnamens zusammen (z.B. Max Herre: mah)
+- Wenn es die ID schon gibt, setzt sich die ID aus den ersten zwei Buchstaben des Vornamens und dem ersten Buchstaben des Nachnamens zusammen (z.B. Max Herre: mah)
 - Wenn der Name nur aus einem Wort besteht, dann werden die ersten drei Buchstaben des Wortes verwendet (z.B. Nena: nen)
 - Plattenlabels werden immer mit den ersten drei Buchstaben des ersten Wortes identifiziert (z.B. Motor Music: mot)
 - Shows werden immer mit den ersten vier Buchstaben des ersten Wortes identifiziert (z.B. The Voice Kids: thev)
