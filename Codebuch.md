@@ -42,6 +42,7 @@
 - Wenn der Name nur aus einem Wort besteht, dann werden die ersten drei Buchstaben des Wortes verwendet (z.B. Nena: nen)
 - Plattenlabels werden immer mit den ersten drei Buchstaben des ersten Wortes identifiziert (z.B. Motor Music: mot)
 - Shows werden immer mit den ersten vier Buchstaben des ersten Wortes identifiziert (z.B. The Voice Kids: thev)
+- Wenn einzelne IDs nicht nach den oben genannten Regeln kodiert werden können, weil es sonst zu ID-Dopplungen kommt, kann die ID frei gewählt werden. Diese Ausnahmen müssen jedoch in unserer Liste "Ausnahmen IDs" vermerkt werden.
 
 **name**
 - Name oder Bezeichnung des Knotens
