@@ -10,7 +10,7 @@
 # Edge-Attribute
 
 **from**
-- iniitierender Knoten, in diesem Fall: Finalist/Coach einer The Voice of Germany Staffel (Staffel 1 bis 13), Staffel/TV-Show 
+- initiierender Knoten, in diesem Fall: Finalist/Coach einer The Voice of Germany Staffel (Staffel 1 bis 13), Staffel/TV-Show 
 
 **to**
 - erhaltender Knoten, in diesem Fall: Coach, Plattenlabel, Producer, andere Sänger(mit denen die Kandidaten an einem Lied beteiligt waren), andere TV-Shows
