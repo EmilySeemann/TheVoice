@@ -112,8 +112,8 @@
 5 = Platz 5 
 
 **Spotify**
-- Wie viele monatliche Höhrer haben die Knoten auf Spotify? (Stand Februar 2024)
-- Monatliche Höhrer werden als Ziffer ohne Punkte oder Kommas angegeben (z.B. 5,8 Millionen: 5800000/ z.B. 23.011: 23011) 
+- Wie viele monatliche Hörer haben die Knoten auf Spotify? (Stand Februar 2024)
+- Monatliche Hörer werden als Ziffer ohne Punkte oder Kommas angegeben (z.B. 5,8 Millionen: 5800000/ z.B. 23.011: 23011) 
 
 **Instagram**
 - Wie viele Instagram Follower haben die Knoten? (Stand Februar 2024)
