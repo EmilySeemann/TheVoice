@@ -61,7 +61,7 @@
 
 2 = Plattenlabel
 
-3 = Show (The Voice of Germany, andere Show, wie Sing meinen Song, Reality TV, ESC, DSDS)
+3 = Show (The Voice of Germany, andere Show, wie Sing meinen Song, Promi Boxen, ESC)
 
 4 = Coach/Juror (gilt für egal welche Show)
 
