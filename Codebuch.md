@@ -3,8 +3,8 @@
 ## Welche Verbindungen bestehen zwischen den FinalistInnen und anderen KünstlerInnen, ProduzentInnen, SongwriterInnen, Labels und/oder anderen Shows?
 
 ## Inhalt
-- Edges.csv (Edgelist)
-- Nodes.csv (Nodelist)
+- Edgelist_bereinigt.csv (Edgelist)
+- Nodelist_bereinigt.csv (Nodelist)
 - Codebuch.md (Codierung der Datensätze)
 
 # Edge-Attribute
