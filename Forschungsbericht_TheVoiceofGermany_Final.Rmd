@@ -1,0 +1,1173 @@
+---
+title: "Forschungsbericht_SNA_TheVoice | Modul: Soziale Netzwerke 226305"
+subtitle: "Netzwerk der The Voice of Germany FinalistInnen der letzten dreizehn Staffeln"
+author: "Emily Seemann, Florin Braun, Hanna Mihm Ruiz, Mara Remmlinger"
+date: "Sommersemester 2024 | Abgabedatum: 12.5.2024"
+output: 
+  pdf_document: 
+    toc: yes
+    fig_caption: yes
+  html_notebook: 
+    toc: yes
+---
+
+# 1. Abstract
+
+Dieser Forschungsbericht untersucht die Verbindungen der FinalistInnen der deutschen Castingshow "The Voice of Germany" zu AkteurInnen der Musikbranche sowie zu anderen Fernsehsendungen. Die Analyse erstreckt sich über dreizehn Staffeln und zielt darauf ab festzustellen, ob sich die FinalistInnen nach der Show tatsächlich ein Netzwerk im Musikbusiness aufbauen konnten. Die Forschung geht auf die Motivation ein, das Erfolgsversprechen von Castingshows kritisch zu hinterfragen und insbesondere die Entwicklung der FinalistInnen und ihrer Netzwerke zu untersuchen. Ausgehend von der Forschungsfrage und dem aktuellen Forschungsstand wurden Arbeitshypothesen entwickelt und mittels Datenerhebung sowie Analyse und Interpretation des gesamten Netzwerkes überprüft. Die Ergebnisse zeigen eine Vielzahl von Verbindungen und Netzwerken, wobei es schwierig ist, klare Trends oder Zusammenhänge zwischen Faktoren wie Staffelplatzierung, Coach-Reichweite und eine großen Netzwerkweite im Musikbusiness zu erkennen. Zu den Einschränkungen der Studie gehören die Komplexität der Hypothesen, die begrenzten Datenquellen und die Schwierigkeit, externe Einflussfaktoren zu berücksichtigen. Ein Ausblick auf zukünftige Forschung umfasst die vertiefte Analyse der Beziehungen zwischen JurorInnen, FinalistInnen und ihren Netzwerken sowie die Untersuchung von KünstlerInnen, die ihre Karriere unabhängig von Castingshows aufgebaut haben.
+
+# 2. Einleitung, Motivation, Forschungsfrage
+
+Ob „Germanys next Topmodel“, „Deutschland sucht den Superstar“ oder „The Voice of Germany“ - Castingshows sind stark im deutschen Fernsehprogramm verankert und für viele ZuschauerInnen immer noch ein beliebtes Unterhaltungsformat.
+
+Im Zentrum der Forschungsarbeit steht die Gesangs-Castingshow „The Voice of Germany“, die seit 2011 die besten deutschen Gesangstalente sucht. Analysiert wurden insbesondere die Verbindungen der FinalistInnen der letzten dreizehn Staffeln zu AkteurInnen aus der Musikbranche, unter anderem KünstlerInnen, ProduzentInnen, SongwriterInnen und Labels. Aber auch die Verbindungen zu anderen Fernsehsendungen wurden näher betrachtet. So soll genauer ermittelt werden, ob und welche TeilnehmerInnen sich nach der Show tatsächlich ein Netzwerk im Musikbusiness aufbauen konnten und wer sich intensiver auf die Teilnahme an anderen Fernsehshows oder auf eine Schauspielkarriere konzentrierte.
+
+Die wesentliche Motivation hinter der Forschungsarbeit liegt darin, einen kritischen Blick auf Castingshows und deren Erfolgsversprechen zu werfen. Insbesondere die Betrachtung von „The Voice of Germany“ als eine der bekanntesten Gesangs-Castingshows erschien besonders spannend, um nachzuvollziehen, ob sich der Traum einer großen Musikkarriere tatsächlich für viele FinalistInnen erfüllt hat. Ein weiterer Faktor, der interessant zu erforschen schien, war die Entwicklung der FinalistIinnen und ihrer Netzwerke im Laufe der Jahre. Hier ergab sich die Frage, inwieweit die KandidatInnen der jüngsten Staffeln an den Erfolg ehemaliger FinalistInnen, wie beispielsweise dem renommierten deutschen Pop-Sänger Max Giesinger, anknüpfen können.
+
+Im Mittelpunkt unserer Forschungsarbeit steht also folgende Forschungsfrage:
+
+*Welche Verbindungen bestehen zwischen den FinalistInnen und anderen KünstlerInnen, ProduzentInnen, SongwriterInnen, Labels und/oder anderen Shows?*
+
+# 3. Forschungsstand der empirischen und theoretischen Literatur
+
+Casting-Shows haben in den letzten Jahren eine bedeutende Rolle im Unterhaltungssektor eingenommen und sind zu einem wesentlichen Bestandteil der Popkultur geworden. Insbesondere Shows wie „Deutschland sucht den Superstar“ und „The Voice of Germany“ haben viele Menschen angezogen und zu Diskussionen darüber geführt, wie sie sich auf die TeilnehmerInnen auswirken. In der Literatur wird das Phänomen der Casting-Shows aus verschiedenen Blickwinkeln betrachtet. Einige ForscherInnen haben sich mit der psychologischen Wirkung der Shows auf die KandidatInnen befasst, während andere Theorien herangezogen haben, um die Gründe für den Erfolg oder das Scheitern der TeilnehmerInnen zu erklären.
+
+André Pradtke widmet sich der Erforschung von Casting-Shows als Orte, an denen Talente entdeckt werden. Er untersucht dabei Theorien zur Entstehung von Superstars und zur Gestaltung von Casting-Show-Formaten (Pradtke, 2014, S. 13–16). Pradtke sieht diese Shows als „Laboratorium" (Pradtke, 2014, S. 14) für die Entwicklung von Superstars und prüft gleichzeitig, ob die KandidatInnen, die daran teilnehmen, wirklich das Potenzial zum Superstar haben. Dieser Ansatz erlaubt es, sowohl die Glaubwürdigkeit der Versprechungen von Casting-Shows zu überprüfen als auch zu untersuchen, wie gut Theorien die Entstehung von Superstars erklären können. Eine Gegenüberstellung mit „The Voice of Germany” zeigt ähnliche Dynamiken. Auch hier werden KandidatInnen präsentiert, die bisher unentdeckte Talente haben und durch die Teilnahme an der Show die Chance erhalten, Superstars zu werden. Die Coaches und das Publikum bewerten die KandidatInnen und die Show verspricht, dass auch unerwartete Talente eine Chance bekommen, sich vor einem großen Publikum zu präsentieren. Wie andere Castingshows ist auch dieses Format eine Möglichkeit für aufstrebende Stars, ihren Weg in die Musikindustrie zu finden.
+
+Es wurde auch untersucht, wie in Casting-Shows wie "Deutschland sucht den Superstar" Realität und Fiktion miteinander vermischt werden. In ihrer Arbeit "Verschwimmende Grenzen von Realität und Fiktion – Eine Analyse von »Deutschland sucht den Superstar«” betrachtet Kurotschka diese Vermischung genauer (Kurotschka, 2007, S. 117–153). Sie zeigt, wie die Show sowohl echte als auch erfundene Geschichten verwendet, um ein Ereignis zu inszenieren, das für Medien und Berichterstattung relevant oder interessant wird. Ähnliche Muster finden sich auch in „The Voice of Germany”, wo Authentizität und Inszenierung ebenfalls verschmelzen. Beide Shows verwenden Elemente des „Factual Entertainment”, um das Publikum zu fesseln und die Grenzen zwischen Realität und Fiktion zu verwischen. Im Mittelpunkt der Diskussion steht die Frage, wie bei „Deutschland sucht den Superstar” durch dramatische Szenen Authentizität erzeugt wird. Gefühlsausbrüche der KandidatInnen werden oft als Zeichen von Authentizität gewertet, es wird aber auch darauf hingewiesen, dass sie strategisch eingesetzt werden können, um Authentizität vorzutäuschen. Insgesamt wird betont, dass die Inszenierung von Emotionen und Authentizität entscheidend ist, um das Publikum zu fesseln und zu unterhalten. Insbesondere vor dem Hintergrund, dass sich das Publikum schnell an die Inhalte der Formate gewöhnt und sich gelangweilt fühlt, müssen Fernsehsender sich bemühen, den Unterhaltungsfaktor aufrechtzuerhalten (Anders et al., 2019, S. 154).
+
+Klug wiederum betrachtet die Inszenierung von Talentfreiheit in der Musikcastingshow „Deutschland sucht den Superstar” und zeigt auf, wie diese Inszenierung das Publikum beeinflusst (Klug, 2017, S. 15–36). Indem talentlose KandidatInnen ausgewählt werden, entsteht eine Spannung zwischen der Erwartung, Gesangstalente zu sehen, und der Realität, zu scheitern. Die Show nutzt diese Dynamik, um Unterhaltung zu bieten und das Publikum zu fesseln. Die Jury, angeführt von Dieter Bohlen, spielt dabei eine zentrale Rolle, indem sie teils beleidigende Kommentare abgibt und das Scheitern der KandidatInnen zusätzlich dramatisiert. Parallelen zu „The Voice of Germany” lassen sich in der Inszenierung von Talentfreiheit nur selten erkennen, da „The Voice of Germany” einen anderen Ansatz verfolgt und sich stärker auf die Förderung von Gesangstalenten konzentriert. Es gibt aber dennoch Momente, in denen weniger talentierte KandidatInnen auftreten. Auch hier wird das Scheitern dieser KandidatInnen gezeigt und bewertet, jedoch in einem weniger beleidigenden oder spöttischen Tonfall als bei DSDS. Die Coaches bei „The Voice of Germany” bieten oft konstruktive Kritik und versuchen, auch weniger talentierte KandidatInnen zu ermutigen und zu unterstützen. Dennoch bleibt die Dynamik ähnlich, da auch in dieser Show das Publikum durch die Spannung zwischen Talent und Talentfreiheit fasziniert wird.
+
+Des Weiteren untersucht Hißnauer Casting-Shows als neue Form des Musikfilms und wirft dabei einen Blick auf die Träume und Hoffnungen, die mit der Teilnahme an solchen Shows verbunden sind (Hißnauer, 2016, S. 77–89). Ähnlich wie bei „The Voice of Germany” wird in diesen Shows oft das Talent der TeilnehmerInnen betont und ihre persönlichen Geschichten werden in den Vordergrund gerückt, um eine emotionale Bindung beim Publikum zu schaffen. Die TeilnehmerInnen hoffen nicht nur auf den Gewinn, sondern auch auf eine Chance, ihre musikalische Karriere zu starten und ihren Traum von einer professionellen Musikkarriere zu verwirklichen. In gewisser Weise fungieren diese Shows als Sprungbrett für aufstrebende MusikerInnen, ähnlich wie bei „The Voice of Germany”, wo talentierte SängerInnen die Chance bekommen, sich einem breiten Publikum zu präsentieren und von etablierten MusikerInnen und ProduzentInnen entdeckt zu werden.
+
+Hornberger kritisiert Shows wie „Deutschland sucht den Superstar” und „Germany's Next Top Model” sowie ihre Darstellung der KandidatInnen (Hornberger, 2017, S. 37–52). Sie argumentiert, dass diese Shows oft den Schwerpunkt weg von Talent und Fähigkeiten hin zum Streben nach Ruhm verlagern, was dazu führt, dass die TeilnehmerInnen oft weniger als ernstzunehmende Stars oder Models, sondern eher als Fernsehfiguren betrachtet werden.
+
+Schramm, Ruth & Spangardt analysieren die Marketingfunktion solcher Shows für Fernsehsender und die Musikindustrie und betonen ihre ökonomische Bedeutung (Schramm et al., 2017, S. 225–249). Sie diskutieren auch, welche Faktoren entscheidend für den Erfolg sind, ob dabei musikalische Qualität oder emotionale Wirkung wichtiger sind und wie sie sich auf den Verkauf von Musikalben auswirken. Dabei geht es um die Interessen, die hier wirklich im Vordergrund stehen.
+
+## Zwischenfazit
+
+Die bisherige Literatur bietet eine vielfältige Perspektive auf das Phänomen der Casting-Shows und liefert Erkenntnisse über die Mechanismen hinter dem Erfolg dieser Shows sowie über potenzielle Motivationsgründe der TeilnehmerInnen. Besonders spannend erscheint die Betrachtung von „The Voice of Germany“ als eine der bekanntesten Gesangs-Castingshows, um das Erfolgsversprechen dieser Formate kritisch zu hinterfragen. Interessant ist hierbei vor allem, ob sich der Traum einer großen Musikkarriere für viele FinalistInnen  erfüllt hat. Diese Analyse verspricht Einblicke in die Realität hinter den glänzenden Kulissen der Unterhaltungsbranche und in die tatsächlichen Chancen und Herausforderungen, mit denen die TeilnehmerInnen konfrontiert sind.
+
+## Limitationen der Vergleiche
+
+Es ist jedoch wichtig anzumerken, dass die vergleichbaren Studien und theoretischen Konzepte nicht immer direkt auf unser spezifisches Forschungsprojekt übertragbar sind. Casting-Shows können sich in ihrer Struktur und ihrem Format unterscheiden, was dazu führen kann,  dass die Ergebnisse variieren. Darüber hinaus sind die meisten Studien auf den Kontext von „Deutschland sucht den Superstar” ausgerichtet, wodurch diese Ergebnisse nicht ohne weiteres auf „The Voice of Germany” übertragen werden können. Diese Limitationen werden bei der Interpretation der Ergebnisse unserer eigenen Analyse berücksichtigt.
+
+# 4. Arbeitshypothesen
+
+Auf Basis unserer Forschungsfrage sowie der Analyse des aktuellen Forschungsstand entwickelten sich folgende Arbeitshypothesen:
+
+1.  Die FinalistInnen der ersten fünf Staffeln von The Voice of Germany sind in der Musikbranche stärker vernetzt als die FinalistInnen der neueren Staffeln.
+
+2.  Die FinalistInnen der letzten Staffeln haben The Voice of Germany eher als Sprungbrett für andere Medienformate genutzt als die FinalistInnen der ersten Staffeln.
+
+3.  Die Reichweite der JurorInnen hat keinen Einfluss auf die Vernetzung ihrer Teammitglieder im Musikbusiness.
+
+4.  Die Platzierung der FinalistInnen innerhalb der Staffel ist nicht relevant für die Häufigkeit der Chartplatzierung.
+
+# 5. Datenerhebung: Zugang, Bereinigung und Codebuch
+
+## Zugang
+
+Die Grundlage für unseren Datenzugang bildeten Informationen aus Wikipedia. Durch Wikipedia haben wir einen umfassenden Überblick über die KandidatInnen der jeweiligen Staffeln von The Voice of Germany erhalten. Wir konnten herausfinden, welche Platzierung sie erreicht haben und welchem Coach sie zugeordnet waren. Dies bildete die Basis für unsere weitere Recherche. Im nächsten Schritt vertieften wir unsere Recherche, indem wir den Werdegang der einzelnen KandidatInnen genauer unter die Lupe nahmen. Hierfür nutzten wir das Munzinger-Archiv, die eigenen Websites der KandidatInnen, soziale Medien, Zeitungsartikel und generell alles, was crossmedial berichtet wurde, um Informationen über die Labels, mit denen die KandidatInnen zusammengearbeitet hatten, sowie ihre Teilnahme an anderen Shows zu sammeln. Um die Zusammenarbeit der TeilnehmerInnen mit anderen KünstlerInnen, SongwriterInnen oder ProduzentInnen genauer nachvollziehen zu können, haben wir ihre Diskografie auf Spotify analysiert und die Songinfos erfasst. Außerdem verfolgten wir die monatlichen Hörerzahlen auf Spotify, um einen Einblick in ihre Popularität und Reichweite zu erhalten. Wir entschieden uns für den Musikstreaming-Anbieter Spotify, da dieser der weltweite Marktführer unter den Musikstreaming-Anbietern ist. Zusätzlich haben wir die Anzahl der FollowerInnen auf den Instagram-Profilen der KandidatInnen betrachtet, um ihr Social-Media-Engagement und ihre Präsenz dort zu erfassen. Dies ist von besonderer Bedeutung, da Social-Media-Plattformen eine immer wichtigere Rolle für die Vermarktung von MusikerInnen spielen (Wirtz, 2023, S. 586).
+
+## Bereinigung des Datensatzes
+
+Bevor wir unser Netzwerk das erste Mal visualisierten, bereinigten wir noch einmal die Daten. Nach dem Entfernen der doppelten IDs mussten wir die Codierung der nicht erfassbaren Daten erneut ändern. Zuerst hatten wir sie als NA kodiert, aber als wir versuchten, sie zu visualisieren, stellte sich heraus, dass das Programm die NAs nicht immer lesen konnte. Daher kodierten wir sie mit dem Wert 99. Um Verfälschungen bei den Attributen “Spotify” sowie “Instagram” zu vermeiden, wurden diese NAs mit 1 codiert. 
+
+Nach einer ersten Visualisierung stellten wir fest, dass es viele einzelne Knoten gab, die nur eine Verbindung hatten und keine relevanten Informationen für unser Netzwerk lieferten. Es war wichtig, diese isolierten Knoten zu identifizieren und zu bereinigen, um die Qualität und Aussagekraft unserer Analyse zu verbessern. Hierbei standen wir vor der Herausforderung, theoretisch bekannte SängerInnen wie beispielsweise Helene Fischer ausschließen zu müssen, da sie nur eine Verbindung im Netzwerk hatte. 
+Wir wollten sicherstellen, dass unser Netzwerk aussagekräftige und relevante Informationen über die Karrierewege der The Voice of Germany FinalistInnen enthielt, ohne wichtige KünstlerInnen fälschlicherweise auszuschließen. Um diese Herausforderung zu bewältigen, entschieden wir uns dazu, alle Knoten, die nur eine Verbindung, weniger als 10.000 monatliche Hörer auf Spotify und weniger als 10.000 FollowerInnen auf Instagram hatten, zu entfernen. Alle drei Kriterien mussten also erfüllt sein, um diese Personen aus dem Datensatz zu löschen. Diese Schwellenwerte dienten als Maßstab für die Relevanz und Popularität der KandidatInnen innerhalb unseres Netzwerkes. 
+
+## Codebuch
+
+Das Codebuch dient dazu, eine einheitliche und klare Definition der verwendeten Attribute für alle Teammitglieder festzulegen und sicherzustellen, dass die Daten korrekt erhoben werden. Unser Codebuch für die Analyse der Karriereverläufe der FinalistInnen von The Voice of Germany ist auf Github hinterlegt (siehe Anhang). 
+
+Die größte Herausforderung bei der Erstellung unseres Codebuchs war die anfängliche Schwierigkeit zu entscheiden, welche "Rollen" den jeweiligen KandidatInnen zugewiesen werden sollen. Ein konkretes Beispiel hierfür war die Frage, wie wir den Kandidaten "Max Giesinger" erheben, der zunächst als Kandidat an der Show teilnahm und später als Juror zurückkehrte. Da Max Giesinger sein Debüt bei The Voice of Germany als Kandidat hatte, wiesen wir ihm auch diese Rolle in der Nodelist zu. Um dennoch erfassen zu können, dass er später auch als Coach an der Show teilgenommen hat, erhoben wir das Edge-Attribut "relation". So könnten wir ihm zwei Beziehungen zu der Show zuweisen. Zum einen die Relation "Person hat als Kandidat teilgenommen" und zum anderen "Person hat als Coach teilgenommen".
+
+In unserem Netzwerk unterschieden wir bei den Knoten zwischen Personen und Organisationen. Zusätzlich wurden spezifische Daten wie Geschlecht, Showkategorie und Anzahl der Songs in den deutschen Charts erfasst. Darüber hinaus wurde im Laufe der Datenerhebung entschieden, zusätzlich die Spotify-HörerInnen und Instagram-FollowerInnen zu erheben, um eine Metrik zur Messung der Reichweite der Musikschaffenden zu haben. Um die zeitliche Dimension mit einzubeziehen, wurde das Jahr erfasst, in dem die AkteurInnen zum ersten Mal im Rahmen von The Voice of Germany Kontakt hatten. So kann festgestellt werden, wann die KandidatInnen in der Musikbranche Fuß gefasst haben. 
+
+# 6. Analyse und Interpretation des Gesamtnetzwerks
+
+Im Folgenden wird das erhobene Netzwerk genauer analysiert und dabei wichtige Netzwerkdaten berechnet.
+
+Bei unserem Netzwerk handelt es sich um ein ungerichtetes und ungewichtetes Two-Mode-Netzwerk, bestehend aus 297 Knoten und 515 Kanten. Das Netzwerk besteht dabei aus lediglich einer Komponente. Die Dichte im Netzwerk beträgt 1,17 Prozent von allen möglichen Verbindungen und die maximale Pfaddistanz 11 Schritte. Das Netzwerk zeugt somit von einer gewissen Größe, wobei durch den doch recht geringen Dichte-Wert deutlich wird, dass viele potenzielle Verbindungen der FinalistInnen zu anderen Medienschaffenden, Labels, etc. nicht bestehen beziehungsweise aktiviert werden. Insgesamt handelt es sich um ein recht zusammenhängendes Netzwerk, was auch durch die maximale Pfaddistanz von 11 Schritten bei 298 Knoten deutlich wird.
+
+## Setup
+
+```{r setup, include=FALSE}
+
+knitr::opts_chunk$set(echo = TRUE)
+library(igraph)
+
+```
+
+## Datensatz einlesen
+
+```{r "The Voice of Germany"-Netzwerk}
+
+# Edgelist und Nodelist einlesen 
+
+el <- 
+  read.csv("https://raw.githubusercontent.com/EmilySeemann/TheVoice/main/Edgelist_bereinigt.csv",
+           header=T, as.is=T, sep = ",")
+
+nodes <- read.csv("https://raw.githubusercontent.com/EmilySeemann/TheVoice/main/Nodelist_bereinigt.csv",
+                  header=T, as.is=T, sep = "," )
+
+# edgematrix erstellen
+
+edgematrix <-as.matrix(el)
+
+# igraph Objekt erstellen
+tv <- graph_from_data_frame(d=edgematrix, vertices=nodes, directed=F)
+
+tv
+
+```
+
+## Generelle Beschreibung des Gesamtnetzwerks
+
+```{r Generelle Beschreibung des Gesamtnetzwerks }
+
+# gerichtet/ungerichtet
+is.directed(tv) # Ungerichtetes Netzwerk
+
+# gewichtet/ungewichtet
+is.weighted(tv) # Ungewichtetes Netzwerk
+
+# Anzahl Knoten
+vcount(tv) # Netzwerk besteht aus 297 Knoten
+
+# Anzahl Kanten 
+ecount(tv) #Netzwerk besteht aus 515 Kanten
+
+# Dichte des Netzwerks
+edge_density(tv) # Die Dichte im Netzwerk beträgt 1,17 Prozent von allen möglichen Verbindungen
+
+# Umfang des Netzwerks/Durchmesser
+diameter(tv)  # Der längste kürzeste Pfad zwischen zwei Knoten in dem Netzwerk enthält 11 Kanten 
+
+# Durchmesser/ Zeigt die Knoten mit der längsten Pfaddistanz, ist ein spezifischer Pfad 
+get_diameter(tv) 
+
+# Pfaddistanzen 
+# Die maximale Pfaddistanz beträgt 11 Schritte und Knoten 2 und 298 sind am 
+# weitesten voneinander entfernt
+farthest_vertices(tv) 
+
+mean_distance(tv) #Im Durchschnitt sind die Knoten circa 5 Kanten voneinander entfernt
+
+## besteht das Netzwerk aus Komponenten?
+is.connected(tv) # Netzwerk besteht aus einer Komponente
+
+```
+
+## Visualisierung Gesamtnetzwerk
+
+```{r erste Visualisierung Gesamtnetzwerk, warning = FALSE, fig.width=7, fig.height=4, dpi=300}
+
+# ChatGPT 1: Die von ChatGPT generierten Zeilen innerhalb dieses Codes wurden markiert. 
+# In diesem Bericht werden diese Codezeilen in mehreren Berechnungen verwendet. 
+# Im Anhang sind unter dem Punkt "ChatGPT" sowohl der Promt als auch das Ergebnis 
+# von ChatGPT aufgeführt. 
+
+# Die nachfolgenden Codezeilen wurden von ChatGPT generiert
+# Funktion, um Farben basierend auf 'role' zuzuweisen 
+assign_colors_to_roles <- function(role) {
+  ifelse(role == 1, "blue",
+    ifelse(role == 2, "red",
+      ifelse(role == 3, "green",
+        ifelse(role == 4, "yellow",
+          ifelse(role == 5, "purple", "orange")))))
+}
+
+# Die nachfolgenden Codezeilen wurden von ChatGPT generiert
+# Funktion, um Farben basierend auf 'Relation' zuzuweisen
+# Hier wird eine neue Farbzuordnung angenommen
+assign_colors_to_relations <- function(relation) {
+  ifelse(relation == 1, "cyan",
+    ifelse(relation == 2, "magenta",
+      ifelse(relation == 3, "black",
+        ifelse(relation == 4, "grey",
+          ifelse(relation == 5, "gold", "brown")))))
+
+}
+
+# Visualisierung 
+# Die Verwendung von 'vertex.color' und 'edge.color' muss entsprechend angepasst werden
+plot(tv, layout=layout_with_kk(tv),
+     vertex.size=V(tv)$Spotify/1000000,
+     vertex.label.cex=0.6,
+     vertex.label.color="black",
+     vertex.shape = ifelse(V(tv)$type == "1", "circle", "square"),
+     vertex.label.dist=1,
+     vertex.label.family="sans",
+     edge.curved=0.1,
+     # Anpassung basierend auf 'role' , von ChatGPT generiert
+     vertex.color=sapply(V(tv)$role, assign_colors_to_roles), 
+     # Anpassung basierend auf 'Relation', von ChatGPT generiert
+     edge.color=sapply(E(tv)$relation, assign_colors_to_relations), 
+     edge.width=0.5,
+     edge.label=E(tv)$year,
+     main="Connections der The Voice of Germany FinalistInnen",
+     sub="Welche Verbindungen bestehen zwischen den FinalistInnen und anderen   KünstlerInnen, 
+     ProduzentInnen, SongwriterInnen, Labels und/oder anderen Shows?")
+```
+
+## Zentralitätsmaße Gesamtnetzwerk
+
+Betrachtet man die Zentralitätsmaße des Gesamtnetzwerks fällt auf, das insbesondere ein Finalist, Michael Schulte, eine sehr bedeutende Rolle im Netzwerk spielt. Durch seinen hohen Degree-Wert wird deutlich, dass er viele direkte Verbindungen innerhalb des Netzwerks hat (Mutschke, 2023, S. 4). Die hohe Betweenness-Zentralität zeigt, dass er auf vielen der kürzesten Wege zwischen anderen Knotenpaaren im Netzwerk liegt und somit eine wichtige Brückenfunktion erfüllt (Fuhse, 2018, S.60). Die hohe Closeness-Zentralität von Michael Schulte verdeutlicht, dass er eine zentrale Position im Netzwerk einnimmt und sehr nah zu den anderen Knoten liegt, wodurch er als eine Art Verteilerknoten angesehen werden kann (Rürup et al., 2015, S. 30).
+
+```{r Zentralitätsmaße Gesamtnetzwerk}
+
+# Identifikation des Knotes mit höchstem Grad
+which.max(degree(tv, mode = "all")) # Michael Schulte 
+
+# Gesamtzahl der Verbindungen für Michael Schulte
+degree(tv, mode = "all")[["Michael Schulte"]] # Michael Schulte hat 46 In-/Outdegrees
+
+# Betweenness-Zentralität für alle Knoten
+
+betweenness_values <- betweenness(tv, normalized = TRUE)
+
+# Erstellung einer Tabelle aus den Betweenness Werten
+betweenness_df <- data.frame(Betweenness = betweenness_values)
+
+# Ausgabe der obersten 5 Werte
+head(betweenness_df, 5)
+
+
+# Knoten mit der höchsten Betweenness-Zentralität
+max_between <- which.max(betweenness(tv))
+
+# Betweenness-Wert für den führenden Knoten
+betweenness(tv, normalized = TRUE)[max_between] # Michael Schulte: 0,265 
+
+# Knoten mit der geringsten Betweenness-Zentralität
+min_betweenness <- which.min(betweenness(tv)) 
+
+# Betweenness-Wert des niedrigsten Knotens
+betweenness(tv, normalized = TRUE)[min_betweenness] # R3hab: 0
+
+# Closeness-Zentralität für alle Knoten
+
+closeness_values <- closeness(tv, normalized = TRUE)
+
+closeness_df <- data.frame(Closeness = closeness_values)
+
+head(closeness_df, 5)
+
+# Knoten mit der höchsten Closeness-Zentralität
+max_closeness <- which.max(closeness(tv)) 
+
+# Closeness-Wert des führenden Knotens
+closeness(tv, normalized = TRUE)[max_closeness] # Michael Schulte: 0,343 
+
+# Knoten mit der geringsten Closeness-Zentralität
+min_closeness <- which.min(closeness(tv)) 
+
+# Closeness-Wert des niedrigsten Knotens
+closeness(tv, normalized = TRUE)[min_closeness] # Noah Slee: 0.120 
+
+```
+
+## Egonetzwerk von Michael Schulte
+
+```{r Egonetzwerk Michael Schulte}
+
+list.vertex.attributes(tv)
+
+tv_names <- vertex.attributes(tv)$name 
+tv_names[1:5]
+
+# Ego-Netzwerk Michael Schulte - Einbeziehung der Beziehungen ersten Grades
+schulte <- make_ego_graph(tv, order=1, nodes=V(tv)$name == "Michael Schulte", 
+                          mode = "all") 
+
+schulte
+
+schulte_ego <- schulte[[1]]
+schulte_ego
+
+
+vcount(schulte_ego) # Das Netzwerk umfasst 41 Knoten
+
+# Funktion, um Farben basierend auf 'role' zuzuweisen 
+assign_colors_to_roles <- function(role) {
+  ifelse(role == 1, "blue",
+    ifelse(role == 2, "red",
+      ifelse(role == 3, "green",
+        ifelse(role == 4, "yellow",
+          ifelse(role == 5, "purple", "orange")))))
+}
+
+# Funktion, um Farben basierend auf 'Relation' zuzuweisen
+# Hier wird eine neue Farbzuordnung angenommen
+assign_colors_to_relations <- function(relation) {
+  ifelse(relation == 1, "cyan",
+    ifelse(relation == 2, "magenta",
+      ifelse(relation == 3, "black",
+        ifelse(relation == 4, "grey",
+          ifelse(relation == 5, "gold", "brown")))))
+}
+
+
+# Anwenden der Funktion auf jede 'role' und Speichern der Farben
+V(schulte_ego)$color <- sapply(V(schulte_ego)$role, assign_colors_to_roles)
+
+
+# Visualisierung
+plot(schulte_ego, layout=layout_with_kk(schulte_ego),
+     vertex.size=V(schulte_ego)$Spotify/1000000,
+     vertex.label.cex=0.6,
+     vertex.label.color="black",
+     vertex.shape = ifelse(V(schulte_ego)$type == "1", "circle", "square"),
+     vertex.label.dist=1,
+     vertex.label.family="sans",
+     edge.curved=0.1,
+     # Anpassung basierend auf 'role'
+     vertex.color=sapply(V(schulte_ego)$role, assign_colors_to_roles), 
+     # Anpassung basierend auf 'Relation'
+     edge.color=sapply(E(schulte_ego)$relation, assign_colors_to_relations), 
+     edge.width=0.5,
+     edge.label=E(schulte_ego)$year,
+     main="Ego-Netzwerk von Michael Schulte"
+    )
+
+```
+
+## Erweiterte Berechnung
+
+Die Assortivitätswerte im Gesamtnetzwerk nach Vertex-Attributen sind alle negativ, sodass keine Form von Homophilie festgestellt werden kann. Die negativen Werte sind für uns insbesondere bei Spotify und Instagram überraschend. Wir sind davon ausgegangen, dass KünstlerInnen mit einer hohen Reichweite auf Spotify und Instagram aufgrund ihrer Bekannheit eher miteinander verbunden sind.
+
+```{r Homophilie im Gesamtnetzwerk}
+??assortativity
+list.vertex.attributes(tv)
+
+# Assortivität im Gesamtnetzwerk
+
+assortativity_nominal(tv, V(tv)$sex)
+assortativity_nominal(tv, V(tv)$Spotify)
+assortativity_nominal(tv, V(tv)$Instagram)
+assortativity_nominal(tv, V(tv)$Charts)
+assortativity_nominal(tv, V(tv)$Platz)
+
+```
+
+# 7. Überprüfung der Hypothesen - Teilnetzwerke und fortgeschrittene Analysen
+
+Nachfolgend werden unsere Arbeitshypothesen überprüft und eine genauere Analyse verschiedenster Teilnetzwerke vorgenommen. Der Fokus unserer Berechnungen liegt hier verstärkt auf egozentrierten Netzwerken, die eine genaue Analyse der zu beobachtenden Egos zu anderen Alteri und deren Verbindungen untereinander ermöglichen (Wolf & Repke, 2024, S. 2).
+
+**Hypothese 1:** Die FinalistInnen der ersten fünf Staffeln von The Voice of Germany sind in der Musikbranche stärker vernetzt als die FinalistInnen der neueren Staffeln.
+
+Um Hypothese 1 zu belegen, haben wir uns die Closeness-Werte der einzelnen FinalistInnen angeschaut. Die Closeness beschreibt die Zentralität der Knoten innerhalb eines Netzwerkes.Genauer geht es hier um die Nähe eines Knoten zu allen anderen Knoten im Netzwerk. Die Closeness-Werte aller FinalistInnen haben wir uns von R berechnen lassen und dann in einer Tabelle zusammengefasst um eine Übersicht zu haben.
+
+|                                  |             |
+|----------------------------------|-------------|
+| **KandidatIn**                   | **Staffel** |
+| Michael Schulte                  | 1           |
+| Natia Todua                      | 7           |
+| Max Giesinger                    | 1           |
+| Ivy Quainoo                      | 1           |
+| Alessandro Pola                  | 10          |
+| Eros Atomus Isler                | 8           |
+| Ben Dolic                        | 8           |
+| Kim Sanders                      | 1           |
+| jamie-lee kriewitz               | 5           |
+| Erwin Kintop                     | 9           |
+| Tosari Udayana                   | 10          |
+| Paula Dalla Corte                | 10          |
+| Samuel Rösch                     | 8           |
+| Nick Howard                      | 2           |
+| Isabell Schmidt                  | 2           |
+| Benedikt Köstler                 | 7           |
+| Robin Resch                      | 6           |
+| Fidi Steinbeck                   | 9           |
+| Anna Heimrath                    | 7           |
+| Linda Arndt                      | 4           |
+| Mael und Jonas                   | 10          |
+| Jessica Schaffler                | 8           |
+| BB Thomaz                        | 7           |
+| Tay Schmedtmann                  | 6           |
+| Boris Alexander Stein Bobby Lies | 6           |
+| Oliver Henrich                   | 10          |
+| Judith van Hel                   | 3           |
+| Marc Amacher                     | 6           |
+| Tammo Förster                    | 12          |
+| Sebastian Krenz                  | 11          |
+| Anny Ogrezeanu                   | 12          |
+| Lucas Rieger                     | 9           |
+| Charley Ann Schmutzler           | 4           |
+| Florian & Charlene Gallant       | 11          |
+| Andrei Vesa                      | 4           |
+| Andreas Kümmert                  | 3           |
+| Claudia Emmanuela Santoso        | 9           |
+| Freschta Akbarzada               | 9           |
+| Linda Elsener                    | 11          |
+| Michael Lane                     | 2           |
+| James Borges                     | 2           |
+| Chris Schummert                  | 3           |
+| Basti Schmidt                    | 12          |
+| Isabel Ment                      | 5           |
+| Marion Campbell                  | 4           |
+| Gugu Zulu                        | 11          |
+| Debbie Schippers                 | 3           |
+| Ayke Witt                        | 5           |
+| Tiffany Kemp                     | 5           |
+| Julian Pförtner                  | 12          |
+| Katarina Mihaljevic              | 11          |
+| Egon Herrnleben                  | 13          |
+| Desirey Sarpong Agyemang         | 13          |
+| Joy Esquivias                    | 13          |
+| Malou Lovis Kreyelkamp           | 13          |
+| Emely Myles                      | 13          |
+
+Tabelle 1: Übersicht aller FinalistInnen abfallend nach Closeness-Werten geordnet.
+
+Es gibt einige Auffälligkeiten: FinalistInnen der ersten The Voice of Germany Staffel haben einen sehr hohen Closeness Wert im Gegensatz zu allen anderen FinalistInnen. Ein hoher Closeness-Wert bedeutet, dass der Knoten gut vernetzt ist, da er in kurzer Zeit mit anderen Knoten kommunizieren kann. Man kann also sagen, dass die FinalistInnen der ersten Staffel besonders zentral im Netzwerk sind. Eine weitere Auffälligkeit ist, dass sich nach den FinalistInnen der ersten Staffel, die hohe Closeness-Werte verzeichnen, ein gemischtes Feld an FinalistInnen unterschiedlichster Staffeln zeigt. FinalistInnen der Staffeln 2-5 sind vermehrt im unteren Drittel der Closeness-Werte zu finden. Man kann deshalb davon ausgehen, dass sie eher weniger gut vernetzt sind, da sie länger brauchen um mit den anderen Knoten zu kommunizieren. Zudem ist zu bemerken, dass FinalistInnen der Staffeln 6-8 höhere bis hohe Closeness-Werte verzeichnen. Es ist also anzunehmen, dass FinalistInnen dieser Staffeln ein gutes Netzwerk aufbauen konnten. FinalistInnen der letzten The Voice of Germany Staffel, also Staffel 13, haben im Gegenzug dazu die geringsten Closeness-Werte. Da sie erst kurz im "Geschäft" sind und andere FinalistInnen von vergangenen Staffeln weitaus mehr Zeit hatten sich ein Netzwerk aufzubauen, ist dies zu erwarten und nicht sonderlich auffälig.
+
+Generell kann durch die Berechnung und Betrachtung der Closeness-Werte aller FinalistInnen Hypothese 1 in Teilen widerlegt werden. FinalistInnen der Staffel 1 haben die höchsten Closeness-Werte und daher eine zentrale Rolle im Netzwerk. Diese Entwicklung zieht sich allerdings nicht durch die anderen ersten Staffeln und beschränkt sich auf das Debüt von The Voice of Germany. Die These, dass die FinalistInnen der ersten fünf Staffeln also vernetzter sind, als die der letzten Staffeln ist so nicht belegbar. Zwar haben die FinalistInnen der letzten Staffeln vermehrt geringe Closeness-Werte, ein Trend lässt sich hier aber nicht ableiten. Uns ist vermehrt aufgefallen, dass sich jedoch FinalistInnen der Staffeln 6-8 eine zentrale Position im Netzwerk schaffen konnten.
+
+```{r Hypothese 1, echo=TRUE, results='hide' }
+
+# Die FinalistInnen der ersten fünf Staffeln von The Voice sind in der Musikbranche 
+# stärker vernetzt als die FinalistInnen der neueren Staffeln.
+
+save_closenessH1 <- closeness(tv) 
+
+finale <- V(tv)[V(tv)$role == "1"]
+save_closeness_h1finale <- save_closenessH1[finale]
+
+print(sort(save_closeness_h1finale, decreasing = TRUE))
+```
+
+# Egonetzwerk Staffel 1
+
+```{r Hypothese 1 Egonetzwerk Staffel 1 }
+
+
+# Ego-Netzwerk Staffel 1
+# Einbeziehung der Beziehungen zweiten Grades
+staffel1 <- make_ego_graph(tv, order=2, nodes=V(tv)$name == "Staffel 1", mode = "all") 
+
+staffel1
+
+staffel1_ego <- staffel1[[1]]
+staffel1_ego
+
+
+vcount(staffel1_ego) # Das Netzwerk umfasst 96 Knoten
+
+
+# Funktion, um Farben basierend auf 'role' zuzuweisen 
+assign_colors_to_roles <- function(role) {
+  ifelse(role == 1, "blue",
+    ifelse(role == 2, "red",
+      ifelse(role == 3, "green",
+        ifelse(role == 4, "yellow",
+          ifelse(role == 5, "purple", "orange")))))
+}
+
+# Funktion, um Farben basierend auf 'relation' zuzuweisen 
+# Hier wird eine neue Farbzuordnung angenommen
+assign_colors_to_relations <- function(relation) {
+  ifelse(relation == 1, "cyan",
+    ifelse(relation == 2, "magenta",
+      ifelse(relation == 3, "black",
+        ifelse(relation == 4, "grey",
+          ifelse(relation == 5, "gold", "brown")))))
+}
+
+
+# Anwenden der Funktion auf jede 'role' und Speichern der Farben
+V(staffel1_ego)$color <- sapply(V(staffel1_ego)$role, assign_colors_to_roles)
+
+# Visualisierung
+plot(staffel1_ego, layout=layout_with_kk(staffel1_ego),
+     vertex.size=V(staffel1_ego)$Spotify/1000000,
+     vertex.label.cex=0.6,
+     vertex.label.color="black",
+     vertex.shape = ifelse(V(staffel1_ego)$type == "1", "circle", "square"),
+     vertex.label.dist=1,
+     vertex.label.family="sans",
+     edge.curved=0.1,
+     # Anpassung basierend auf 'role'
+     vertex.color=sapply(V(staffel1_ego)$role, assign_colors_to_roles),
+     # Anpassung basierend auf 'Relation'
+     edge.color=sapply(E(staffel1_ego)$relation, assign_colors_to_relations), 
+     edge.width=0.5,
+     edge.label=E(staffel1_ego)$year,
+     main="Ego-Netzwerk von Staffel 1"
+    )
+
+```
+
+**Hypothese 2:** Die FinalistInnen der letzten Staffeln haben The Voice of Germany eher als Sprungbrett für andere Medienformate genutzt als die FinalistInnen der ersten Staffeln.
+
+Bei Hypothese zwei handelt es sich um eine sehr komplexe Hypothese, die schwer zu überprüfen und nicht ausreichend belegbar war. Es gab keine entscheidenden Hinweise darauf, dass bestimmte Staffeln die Show eher als Sprungbrett für weitere Medienformate genutzt haben als andere. Es konnten daher keine Regelmäßigkeiten identifiziert werden. Im Gegenteil: Es stellte sich die Frage, ob The Voice of Germany überhaupt als Sprungbrett für andere Medienformate genutzt wird.
+
+Wir konnten insbesondere eine weitere Musikshow identifizieren, in der auffällig viele, insgesamt fünf, The Voice of Germany KandidatInnen auftraten. Es handelt sich hierbei um den Vorentscheid des Eurovision Song Contests. Es lässt sich daraus schließen, dass der Eurovision Song Contest für viele The Voice of Germany FinalistInnen ein Ziel in ihrer Musikkarriere darstellt, das durch die Castingshow und die damit verbundene Bekanntheit leichter zu erreichen scheint. Festzustellen ist zudem, dass drei der fünf FinalistInnen, die am deutschen ESC Vorentscheid teilnahmen, dies innerhalb der ersten zwei Jahre nach ihrem Sieg taten. Hier ist zu vermuten, dass die KandidatInnen den "Hype" und die Aufmerksamkeit um sich herum nutzten, um sich durch den ESC Vorentscheid einen Namen im Business zu machen und ihre Präsenz so lange wie möglich aufrecht zu erhalten.
+
+```{r Hypothese 2 Egonetzwerk ESC Vorentscheid}
+
+# Egonetzwerk ESC Vorentscheid
+# Einbeziehung der Beziehungen ersten Grades
+vesc <- make_ego_graph(tv, order=1, nodes=V(tv)$name == "ESC Vorentscheid", mode = "all") 
+
+vesc
+
+vesc_ego <- vesc[[1]]
+vesc_ego
+
+
+vcount(vesc_ego) # Das Netzwerk umfasst 6 Knoten
+
+# Funktion, um Farben basierend auf 'role' zuzuweisen 
+assign_colors_to_roles <- function(role) {
+  ifelse(role == 1, "blue",
+    ifelse(role == 2, "red",
+      ifelse(role == 3, "green",
+        ifelse(role == 4, "yellow",
+          ifelse(role == 5, "purple", "orange")))))
+}
+
+# Funktion, um Farben basierend auf 'relation' zuzuweisen 
+# Hier wird eine neue Farbzuordnung angenommen
+assign_colors_to_relations <- function(relation) {
+  ifelse(relation == 1, "cyan",
+    ifelse(relation == 2, "magenta",
+      ifelse(relation == 3, "black",
+        ifelse(relation == 4, "grey",
+          ifelse(relation == 5, "gold", "brown")))))
+}
+
+
+# Anwenden der Funktion auf jede 'role' und Speichern der Farben
+V(vesc_ego)$color <- sapply(V(vesc_ego)$role, assign_colors_to_roles)
+
+# Visualisierung
+plot(vesc_ego, layout=layout_with_kk(vesc_ego),
+     vertex.label.cex=0.6,
+     vertex.size=V(vesc_ego)$Spotify/1000,
+     vertex.label.color="black",
+     vertex.shape = ifelse(V(vesc_ego)$type == "1", "circle", "square"),
+     vertex.label.dist=1,
+     vertex.label.family="sans",
+     edge.curved=0.1,
+     # Anpassung basierend auf 'role'
+     vertex.color=sapply(V(vesc_ego)$role, assign_colors_to_roles),
+     # Anpassung basierend auf 'Relation'
+     edge.color=sapply(E(vesc_ego)$relation, assign_colors_to_relations), 
+     edge.width=0.5,
+     edge.label=E(vesc_ego)$year,
+     main="Ego-Netzwerk Vorentscheid ESC"
+    )
+
+```
+
+Im Gesamtnetzwerk lassen sich zudem insbesondere zwei Kanidatinnen identifizieren, die nach ihrer Teilnahme an The Voice of Germany in vielen anderen Medienformaten zu sehen waren. Es handelt sich hierbei zum einen um Charley Ann Schmutzler aus Staffel 4, die vor allem als Schauspielerin in diversen Filmen und Serien zu sehen war. Zum anderen Ivy Quainoo aus Staffel 1, die in diversen deutschen Fernsehshows als Sängerin Gastauftritte hatte, dabei jedoch in keiner der Shows tatsächlich als Kandidatin teilnahm. Sie sang unter anderem bei Schlag den Rab, Promi Big Brother und Germanys next Topmodel. Sie nutzte die Reichweite und Bekanntheit, die sie bei The Voice of Germany erlangte, um als Sängerin für andere Fernsehformate gebucht zu werden und somit noch mehr Präsenz zu erlangen.
+
+Auffällig ist, dass Ivy Quainoo ihre Gastauftritte in diversen anderen Fernsehformaten innerhalb der ersten zwei Jahre nach ihrem Sieg hatte. Dies lässt darauf schließen, dass sie hier von ihrer Bekanntheit und Beliebtheit innerhalb der Show profitierte. Charley Ann Schmutzler zeigt hingegen einen starken Kontrast in ihrem Karriereverlauf. Kurz nach ihrer Teilnahme ließ der "Erfolg" in der Musibranche auf sich warten, einige Jahre später fasste sie jedoch Fuß in der Filmindustrie. Dies bedeutet, dass ihre Karriere einen zyklischen Verlauf genommen hat, was im Gegensatz zu Ivy Quainoo steht.
+
+```{r Hypothese 2 Egonetzwerk Charley Ann Schmutzler}
+
+# Egonetzwerk Charley Ann Schmutzler
+# Einbeziehung der Beziehungen ersten Grades
+schmutzler <- make_ego_graph(tv, order=1, nodes=V(tv)$name == "Charley Ann Schmutzler",
+                             mode = "all") 
+
+schmutzler
+
+schmutzler_ego <- schmutzler[[1]]
+schmutzler_ego
+
+
+vcount(schmutzler_ego) # Das Netzwerk umfasst 12 Knoten
+
+# Funktion, um Farben basierend auf 'role' zuzuweisen 
+assign_colors_to_roles <- function(role) {
+  ifelse(role == 1, "blue",
+    ifelse(role == 2, "red",
+      ifelse(role == 3, "green",
+        ifelse(role == 4, "yellow",
+          ifelse(role == 5, "purple", "orange")))))
+}
+
+# Funktion, um Farben basierend auf 'relation' zuzuweisen 
+# Hier wird eine neue Farbzuordnung angenommen
+assign_colors_to_relations <- function(relation) {
+  ifelse(relation == 1, "cyan",
+    ifelse(relation == 2, "magenta",
+      ifelse(relation == 3, "black",
+        ifelse(relation == 4, "grey",
+          ifelse(relation == 5, "gold", "brown")))))
+}
+
+
+# Anwenden der Funktion auf jede 'role' und Speichern der Farben
+V(schmutzler_ego)$color <- sapply(V(schmutzler_ego)$role, assign_colors_to_roles)
+
+
+# Visualisierung
+plot(schmutzler_ego, layout=layout_with_kk(schmutzler_ego),
+     vertex.size=V(schmutzler_ego)$Spotify/100000,
+     vertex.label.cex=0.6,
+     vertex.label.color="black",
+     vertex.shape = ifelse(V(schmutzler_ego)$type == "1", "circle", "square"),
+     vertex.label.dist=1,
+     vertex.label.family="sans",
+     edge.curved=0.1,
+     # Anpassung basierend auf 'role'
+     vertex.color=sapply(V(schmutzler_ego)$role, assign_colors_to_roles), 
+     # Anpassung basierend auf 'Relation'
+     edge.color=sapply(E(schmutzler_ego)$relation, assign_colors_to_relations), 
+     edge.width=0.5,
+     edge.label=E(schmutzler_ego)$year,
+     main="Ego-Netzwerk von Charley Ann Schmutzler"
+    )
+
+```
+
+```{r Hypothese 2 Egonetzwerk Ivy Quainoo}
+
+# Egonetzwerk Ivy Quainoo
+# Einbeziehung der Beziehungen ersten Grades
+quainoo <- make_ego_graph(tv, order=1, nodes=V(tv)$name == "Ivy Quainoo", mode = "all") 
+
+quainoo
+
+quainoo_ego <- quainoo[[1]]
+quainoo_ego
+
+
+vcount(quainoo_ego) # Das Netzwerk umfasst 25 Knoten
+
+# Funktion, um Farben basierend auf 'role' zuzuweisen 
+assign_colors_to_roles <- function(role) {
+  ifelse(role == 1, "blue",
+    ifelse(role == 2, "red",
+      ifelse(role == 3, "green",
+        ifelse(role == 4, "yellow",
+          ifelse(role == 5, "purple", "orange")))))
+}
+
+# Funktion, um Farben basierend auf 'relation' zuzuweisen 
+# Hier wird eine neue Farbzuordnung angenommen
+assign_colors_to_relations <- function(relation) {
+  ifelse(relation == 1, "cyan",
+    ifelse(relation == 2, "magenta",
+      ifelse(relation == 3, "black",
+        ifelse(relation == 4, "grey",
+          ifelse(relation == 5, "gold", "brown")))))
+}
+
+
+# Anwenden der Funktion auf jede 'role' und Speichern der Farben
+V(quainoo_ego)$color <- sapply(V(quainoo_ego)$role, assign_colors_to_roles)
+
+
+# Visualisierung
+plot(quainoo_ego, layout=layout_with_kk(quainoo_ego),
+     vertex.size=V(quainoo_ego)$Spotify/1000000,
+     vertex.label.cex=0.6,
+     vertex.label.color="black",
+     vertex.shape = ifelse(V(quainoo_ego)$type == "1", "circle", "square"),
+     vertex.label.dist=1,
+     vertex.label.family="sans",
+     edge.curved=0.1,
+     # Anpassung basierend auf 'role'
+     vertex.color=sapply(V(quainoo_ego)$role, assign_colors_to_roles), 
+     # Anpassung basierend auf 'Relation'
+     edge.color=sapply(E(quainoo_ego)$relation, assign_colors_to_relations), 
+     edge.width=0.5,
+     edge.label=E(quainoo_ego)$year,
+     main="Ego-Netzwerk von Ivy Quainoo"
+    )
+
+```
+
+**Hypothese 3:** Die Reichweite der JurorInnen hat keinen Einfluss auf die Vernetzung des Musiknetzwerks ihrer Teammitglieder.
+
+The Voice of Germany hat innerhalb von 13 Staffeln mittlerweile 26 Coaches beziehungsweise Coach-Teams hervorgebracht. Unsere Hypothese soll zeigen, dass FinalistInnen unabhängig von der Vernetzung und der Spotify- sowie Instagram-Reichweite ihrer Coaches Erfolg in denselben Kategorien haben und dass es keinen Zusammenhang zwischen dem Faktor Coach und der letztendlichen Reichweite gibt.
+
+Basierend auf dieser Hypothese haben wir exemplarisch Coaches mit einer hohen Reichweite auf Instagram und Spotify sowie Coaches mit einer eher geringeren Reichweite auf den ebengenannten Plattformen betrachtet, sowie im Hauptteil ihre FinalistInnen. Hierbei muss jedoch beachtet werden, dass selbst die Coaches, die wir nun mit einer eher geringen Reichweite definiert haben, innerhalb der Musikbranche bekannt und vernetzt sind. Diese Aufteilung dient lediglich der Unterscheidung, sodass wir ein Fazit unter unsere Hypothese ziehen können. Der Schnittpunkt für die Definition wurde bei 500.000 FollowerInnen auf Instagram und/oder Spotify gesetzt. Alle Ergebnisse der nachfolgenden Analyse der Hypothese 3 wurden in einer Tabelle (siehe unten) festgehalten. Aus dieser ziehen wir unsere Erkenntnisse. Bei den FinalistInnen werden Platzierung, Closeness-Wert sowie die Followerschaft auf Instagram und Spotify näher betrachtet.
+
+Zu den Coaches mit einer hohen Reichweite zählen Nena, Sido und auch Ronan Keating. Betrachten wir ihre FinalistInnen unter die zum Beispiel Kim Sanders oder Emely Myles fallen, so fallen folgende Dinge auf: FinalistInnen von Nena können zwar eine gute Platzierung auf dem jeweils 2. Platz erreichen sowie einen relativ hohen Closeness-Wert, der auf eine zentrale Position im Netzwerk schließen lässt, jedoch keine hohe Reichweite auf Instagram und Spotify. Bei den Schützlingen von Sido und Ronan Keating ist durchweg eine schlechte Platzierung sowie ein niedriger Closeness-Wert zu verzeichnen. Auch die Followerschaft bei Instagram liegt unter dem Richtwert von 10.000 Followern. Eine Ausnahme hierbei bildet Emely Myles, die von Ronan Keating gecoacht wurde. Hier muss jedoch bemerkt werden, dass sie vorher Teilnehmerin einer anderen Show war und daher bereits zuvor eine Followerschaft vorhanden war und dies nicht allein auf The Voice of Germany zurückzuführen ist. Die Spotify Zahlen von Egon Herrnleben, Finalist von Ronan Keating, sowie von Freschta Akbarzada, Finalistin von Sido, reichen über den Richtwert von 10.000. Die Ergebnisse der FinalistInnen der reichweitenstarken Coaches sind demnach also gemischt und können nicht mit der Reichweite ihrer Coaches verbunden werden. Doch wie sieht es bei weniger reichweitenstarken Coaches aus?
+
+Für diese Betrachtung wurden Michael Patrick Kelly, der zwar über dem Richtwert von 500.000 liegt, aber im Vergleich zu den anderen Coaches, eine trotzdem geringere Anzahl an FollowerInnen an, sowie Samu Haber und Stefanie Kloß. Letztere liegen unter dem Richtwert. Auffällig bei den FinalistInnen dieser Coaches ist wieder die Unterschiedlichkeit der Reichweiten und Closeness-Werte. Michael Patrick Kelly hat mit Samuel Rösch, Erstplatzierter der 8. Staffel, einen netzwerkstarken Sänger mit einer hohen Followerschaft bei Instagram sowie Spotify hervorgebracht, ohne selbst die höchste Reichweite zu haben. Samu Haber coachte ganze 5 FinalistInnen über mehrere Staffeln hinweg, die Platzierungen von Platz 1 bis Platz 3 holten. Auf Instagram und Spotify gelang es ihnen jeodch nicht, eine hohe Reichweite zu generieren - bis auf Natia Todua, die Erstplatzierte der 7. Staffeln. Durch ihren extrem hohen Closeness-Wert wird klar, dass sie eine zentrale Rolle im Netzwerk spielt. Außerdem hat sie hohe Followerzahlen sowohl auf Instagram und Spotify - obwohl sie einen eher reichweitenschwachen Coach hatte. Toduas Ego-Netzwerk wurde zum besseren Verständnis nachfolgend visualisiert. 
+FinalistInnen des Coaches Stefanie Kloß führen die Liste von unten an. Niemand von ihnen erreichte eine Platzierung höher als Platz 4 noch einen hohen Closeness-Wert oder hohe Followerzahlen.
+
+Im Gesamten betrachtet ist es nicht möglich, eine Verbindung zwischen Coach und FinalistIn bzw. Reichweite von Coach sowie FinalistIn zu ziehen. Sowohl FinalistInnen mit reichweitenstarken Coaches als auch FinalistInnen mit eher reichweitenschwachen Coaches konnten hohe Closeness-Werte und Followerzahlen verzeichen, aber eben auch andersrum. Daher ist die Hypothese in dem Falle weder zu widerlegen noch zu bestätigen. Mehr noch scheint es eher unerheblich zu sein, wer Coach ist und andere Faktoren scheinen mehr Einfluss auf die Reichweite und Netzwerkstärke der einzelnen Knoten zu haben.
+
++------------------------+---------------------+-----------------------------------------------------------+-------------------+-------------------+-------------------+
+| Juror                  | Finalist 1          | Finalist 2                                                | Finalist 3        | Finalist 4        | Finalist 5        |
++------------------------+---------------------+-----------------------------------------------------------+-------------------+-------------------+-------------------+
+| Nena\                  | Kim Sanders\        | Isabell Schmidt\                                          |                   |                   |                   |
+| \                      | 2. Platz\           | 2. Platz\                                                 |                   |                   |                   |
+| IG \< 500.000\         | Staffel 1\          | Staffel 2\                                                |                   |                   |                   |
+| Spotify \> 500.000     | Closeness 8/56\     | Closeness 15/56\                                          |                   |                   |                   |
+|                        | IG \< 10.000\       | IG \< 10.000\                                             |                   |                   |                   |
+|                        | Spotify \< 10.000   | Spotify \< 10.000                                         |                   |                   |                   |
++------------------------+---------------------+-----------------------------------------------------------+-------------------+-------------------+-------------------+
+| Sido\                  | Freschta Akbarzada\ |                                                           |                   |                   |                   |
+| \                      | 5. Platz\           |                                                           |                   |                   |                   |
+| IG \> 500.000\         | Staffel 9\          |                                                           |                   |                   |                   |
+| Spotify \> 500.000     | Closeness 38/56\    |                                                           |                   |                   |                   |
+|                        | IG \< 10.000\       |                                                           |                   |                   |                   |
+|                        | Spotify \> 10.000   |                                                           |                   |                   |                   |
++------------------------+---------------------+-----------------------------------------------------------+-------------------+-------------------+-------------------+
+| Ronan Keating\         | Egon Herrnleben\    | Emely Myles\                                              |                   |                   |                   |
+| \                      | 3. Platz\           | 5. Platz\                                                 |                   |                   |                   |
+| IG \> 500.000\         | Staffel 13\         | Staffel 13\                                               |                   |                   |                   |
+| Spotify \> 500.000     | Closeness 53/56\    | Closeness 56/56\                                          |                   |                   |                   |
+|                        | IG \< 10.000\       | IG \> 10.000 (hat vor TVoG an anderer Show teilgenommen)\ |                   |                   |                   |
+|                        | Spotify \> 10.000   | Spotify \< 10.000                                         |                   |                   |                   |
++------------------------+---------------------+-----------------------------------------------------------+-------------------+-------------------+-------------------+
+| Michael Patrick Kelly\ | Samuel Rösch\       |                                                           |                   |                   |                   |
+| \                      | 1. Platz\           |                                                           |                   |                   |                   |
+| IG \> 500.000\         | Staffel 8\          |                                                           |                   |                   |                   |
+| Spotify \> 500.000     | Closeness 13/56\    |                                                           |                   |                   |                   |
+|                        | IG \> 10.000\       |                                                           |                   |                   |                   |
+|                        | Spotify \> 10.000   |                                                           |                   |                   |                   |
++------------------------+---------------------+-----------------------------------------------------------+-------------------+-------------------+-------------------+
+| Samu Haber\            | Robin Resch\        | Andrei Vesa\                                              | Judith Van Hel\   | Chris Schummert\  | Natia Todua\      |
+| \                      | 2. Platz\           | 3. Platz\                                                 | 3. Platz\         | 2. Platz\         | 1. Platz\         |
+| IG \> 500.000\         | Staffel 6\          | Staffel 4\                                                | Staffel 3\        | Staffel 3\        | Staffel 7\        |
+| Spotify \< 500.000     | Closeness 17/56\    | Closeness 35/56\                                          | Closeness 27/56\  | Closeness 42/56\  | Closeness 2/56\   |
+|                        | IG \< 10.000\       | IG \< 10.000\                                             | IG \< 10.000\     | IG \< 10.000\     | IG \> 10.000\     |
+|                        | Spotify \< 10.000   | Spotify \< 10.000                                         | Spotify \< 10.000 | Spotify \< 10.000 | Spotify \> 10.000 |
++------------------------+---------------------+-----------------------------------------------------------+-------------------+-------------------+-------------------+
+| Stefanie Kloß\         | Marion Campbell\    | Isabel Ment\                                              | Basti Schmidt\    |                   |                   |
+| \                      | 4. Platz\           | 4. Platz\                                                 | 4. Platz\         |                   |                   |
+| IG \< 500.000\         | Staffel 4\          | Staffel 5\                                                | Staffel 12\       |                   |                   |
+| Spotify \< 500.000     | Closeness 45/56\    | Closeness 44/56\                                          | Closeness 43/56\  |                   |                   |
+|                        | IG \< 10.000\       | IG \< 10.000\                                             | IG \< 10.000\     |                   |                   |
+|                        | Spotify \< 10.000   | Spotify \< 10.000                                         | Spotify \< 10.000 |                   |                   |
++------------------------+---------------------+-----------------------------------------------------------+-------------------+-------------------+-------------------+
+
+Tabelle 2: Übersicht der jeweiligen Coaches und ihrer Teammitglieder
+
+```{r Hypothese 3 Egonetzwerk Natia Todua}
+
+# Egonetzwerk Natia Todua
+# Einbeziehung der Beziehungen zweiten Grades
+todua <- make_ego_graph(tv, order=2, nodes=V(tv)$name == "Natia Todua", mode = "all") 
+
+todua
+
+todua_ego <- todua[[1]]
+todua_ego
+
+
+vcount(todua_ego) # Das Netzwerk umfasst 54 Knoten
+
+# Funktion, um Farben basierend auf 'role' zuzuweisen 
+assign_colors_to_roles <- function(role) {
+  ifelse(role == 1, "blue",
+    ifelse(role == 2, "red",
+      ifelse(role == 3, "green",
+        ifelse(role == 4, "yellow",
+          ifelse(role == 5, "purple", "orange")))))
+}
+
+
+# Funktion, um Farben basierend auf 'relation' zuzuweisen 
+# Hier wird eine neue Farbzuordnung angenommen
+assign_colors_to_relations <- function(relation) {
+  ifelse(relation == 1, "cyan",
+    ifelse(relation == 2, "magenta",
+      ifelse(relation == 3, "black",
+        ifelse(relation == 4, "grey",
+          ifelse(relation == 5, "gold", "brown")))))
+}
+
+
+# Anwenden der Funktion auf jede 'role' und Speichern der Farben
+V(todua_ego)$color <- sapply(V(todua_ego)$role, assign_colors_to_roles)
+
+# Visualisierung
+plot(todua_ego, layout=layout_with_kk(todua_ego),
+     vertex.label.cex=0.6,
+     vertex.label.color="black",
+     vertex.shape = ifelse(V(todua_ego)$type == "1", "circle", "square"),
+     vertex.label.dist=1,
+     vertex.label.family="sans",
+     edge.curved=0.1,
+     # Anpassung basierend auf 'role'
+     vertex.color=sapply(V(todua_ego)$role, assign_colors_to_roles), 
+     # Anpassung basierend auf 'Relation'
+     edge.color=sapply(E(todua_ego)$relation, assign_colors_to_relations), 
+     edge.width=0.5,
+     edge.label=E(todua_ego)$year,
+     main="Ego-Netzwerk von Natia Todua"
+    )
+
+
+```
+
+**Hypothese 4:** Die Platzierung innerhalb der Staffel ist nicht relevant für die Häufigkeit der Chartplatzierung.
+
+Innerhalb unseres Projektes haben wir auch die jeweilige Häufigkeit der erreichten Chartplatzierungen der FinalistInnen dokumentiert. Die Hypothese hierzu lautet, dass kein Zusammenhang zwischen der Anzahl der erreichten Chartplatzierungen in Deutschland zu der Platzierung innerhalb der The Voice of Germany Staffel herrscht. Um diese These zu be- oder widerlegen haben wir unsere Daten händisch betrachtet, da eine Lösung zu berechnen zu komplex und nicht zielführend gewesen wäre. So konnten wir nun in der Tabelle folgende Erkenntnisse machen:
+
++----------------------------------+-----------------+-----------------+
+| **name**                         | **type**        | **role**        |
++----------------------------------+-----------------+-----------------+
+| Michael Schulte                  | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+| Max Giesinger                    | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+| Kim Sanders                      | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+| Andreas Kümmert                  | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+| Ivy Quainoo                      | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+| Michael Lane                     | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+| Freschta Akbarzada               | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+| Paula Dalla Corte                | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+| Marion Campbell                  | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+| Judith van Hel                   | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+| Nick Howard                      | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+| Isabell Schmidt                  | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+| jamie-lee kriewitz               | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+| Tay Schmedtmann                  | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+| James Borges                     | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+| Charley Ann Schmutzler           | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+| Debbie Schippers                 | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+| Andrei Vesa                      | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+| Ayke Witt                        | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+| Chris Schummert                  | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+| Malou Lovis Kreyelkamp           | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+| Linda Elys                       | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+| Sebastian Krenz                  | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+| Anny Ogrezeanu                   | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+| Fidi Steinbeck                   | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+| Samuel Rösch                     | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+| Mael und Jonas                   | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+| Natia Todua                      | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+| BB Thomaz                        | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+| Ben Dolic                        | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+| Erwin Kintop                     | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+| Egon Herrnleben                  | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+| Eros Atomus Isler                | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+| Joy Esquivias                    | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+| Katarina Mihaljevic              | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+| Alessandro Pola                  | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+| Desirey Sarpong Agyemang         | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+| Boris Alexander Stein Bobby Lies | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+| Julian Pförtner                  | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+| Claudia Emmanuela Santoso        | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+| Tosari Udayana                   | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+| Gugu Zulu                        | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+| Oliver Henrich                   | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+| Marc Amacher                     | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+| Robin Resch                      | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+| Linda Arndt                      | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+| Lucas Rieger                     | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+| Jessica Schaffler                | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+| Emely Myles                      | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+| Florian & Charlene Gallant       | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+| Basti Schmidt                    | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+| Isabel Ment                      | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+| Tiffany Kemp                     | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+| Anna Heimrath                    | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+| Tammo Förster                    | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+| Benedikt Köstler                 | 1               | 1               |
++----------------------------------+-----------------+-----------------+
+
+Tabelle 3: Übersicht aller FinalistInnen mit ihrer jeweiligen Staffel und Anzahl an Chartplatzierungen (nach Codebuch codiert)
+
+Von den 13 Erstplatzierten tauchen nur 7 in den Charts auf, nur 2 davon mehr als 3 mal. Außerdem betrachtet wurden FinalistInnen, die den 4. und 5. Platz gewonnen hatten. Von diesen 17 FinalistInnen konnten nur 5 eine Chartplatzierung erreichen, davon nur Max Giesinger häufiger als 3 Mal. Betrachtet man die Verteilung der Chartplatzierungen so fällt auf, dass in beiden Fällen nur wenige FinalistInnen eine tatsächliche Chartplatzierung erreichen konnten. Zwar sind es bei den Erstplatzierten mehr als bei den hinteren Platzierungen, aber nicht deutlich mehr. Im Gesamten sind von 56 FinalistInnen nur 20 SängerInnen dabei, die überhaupt in den Charts auftauchen, unabhängig von der Platzierung.
+
+Generell kann unsere Hypothese also dadurch belegt werden, dass keine Verbindung zwischen Platzierung und Häufigkeit der Chartplatzierung herrscht. Das Netzwerk der Erstplatzierten wurde für visuelle Zwecke anbei noch visualisiert.
+
+## Alle Gewinner der letzten dreizehn Staffeln in einem Netzwerk
+
+```{r Hypothese 4 Gewinnernetzwerk, fig.width=7, fig.height=4, dpi=300}
+
+# ChatGPT 2: Dieser Code wurde mit Hilfe von ChatGPT generiert. 
+# Im Anhang sind unter dem Punkt "ChatGPT" sowohl der Promt als auch das 
+# Ergebnis von ChatGPT aufgeführt. 
+
+# Identifiziere die Knoten, die die Erstplatzierten darstellen
+winner_ids <- V(tv)[V(tv)$Platz == 1]$name
+
+# Erstelle die Ego-Netzwerke für jeden Erstplatzierten
+ego_networks <- lapply(winner_ids, 
+                       function(w) make_ego_graph(tv, 
+                                                  order=1, 
+                                                  nodes=which(V(tv)$name == w),
+                                                  mode="all"))
+
+# Kombiniere die Ego-Netzwerke in ein einzelnes Graph-Objekt
+erstplatzierte_ego <- do.call(graph.union, ego_networks)
+
+# Stelle sicher, dass Duplikate von Kanten und Knoten entfernt werden
+erstplatzierte_ego <- simplify(erstplatzierte_ego)
+
+# Plot des Graphen mit den angepassten Einstellungen
+plot(erstplatzierte_ego, layout=layout_with_kk(erstplatzierte_ego),
+     vertex.label.cex=0.6,
+     vertex.size=5,
+     vertex.label.dist=1,
+     vertex.label.family="sans",
+     edge.curved=0.1,
+     edge.width=2, # Erhöht die Breite der Kanten, um sie sichtbarer zu machen
+     main="Connections der The Voice of Germany Gewinner",
+     sub="Netzwerk der Verbindungen zwischen den Gewinnern und anderen 
+     KünstlerInnen, ProduzentInnen, SongwriterInnen, Labels und/oder anderen Shows")
+
+```
+
+# 8. Fazit, Limitation und Forschungsausblick
+
+# 8.1 Fazit und zentrale Erkenntnisse
+
+Im Generellen lässt sich aus unserer Datenanalyse recht schwer ein zusammenfassendes Fazit ziehen. Im Laufe unserer Analyse mussten wir feststellen, dass einige Hypothesen sehr komplex zu berechnen und schwer zu überprüfen waren. Dennoch konnten wir einige Erkenntnisse gewinnen, die die Vernetzung der The Voice of Germany FinalistInnen genauer beleuchten:
+
+1.  Die FinalistInnen der ersten Staffel sind stärker in der Musikbranche vernetzt als alle anderen Staffeln und bilden mit ihrer Netzwerkstärke eine Ausnahme.
+
+2.  Nur vereinzelte KandidatInnen wie Ivy Quainoo oder Charley Ann Schmutzler haben The Voice of Germany als Sprungbrett für andere Medienformate genutzt. Jedoch ist auffällig, dass der deutsche ESC Vorentscheid oder sogar der ESC selbst für viele FinalistInnen ein nächster Karriereschritt war.
+
+3.  Die Platzierung der FinalistInnen steht in keinerlei Relation zu den später erreichten Chart Platzierungen.
+
+4.  Ein reichweitenstarker Coach ist kein Garant für eine hohe Reichweite auf Instagram oder Spotify der FinalistInnen.
+
+# 8.2 Limitationen
+
+Im Verlaufe unseres Forschungsberichtes sind wir an die Grenzen unserer Hypothesen gestoßen. Dies hatte folgende Gründe:
+
+1.  Alle Hypothesen des vorliegenden Forschungsberichts unterliegen einer gewissen Komplexität. In der Hypothese 3 beispielsweise wird die Reichweite der JurorInnen als potenziell einflussreicher Faktor auf die Vernetzung der Teammitglieder betrachtet. Die Analyse dessen ist komplex, da sie eine Vielzahl von Datenquellen wie die Platzierungen der FinalistInnen, die Anzahl der FollowerInnen auf Instagram und Spotify sowie eine Netzwerkanalyse erfordert und all diese Faktoren gleichzeitig betrachtet und in Verbindung gesetzt werden müssen. Eine fundierte Aussage ist in diesem Falle kaum möglich.
+
+2.  Innerhalb unserer Datenerhebung war es nicht möglich alle möglichen Einflussfaktoren zu berücksichtigen. In der Hypothese 2 wird angenommen, dass FinalistInnen der letzten Staffeln von The Voice of Germany eher als Sprungbrett für andere Medienformate genutzt werden. Diese Annahme lässt jedoch andere wichtige Faktoren wie individuelle Präferenzen, Vertragsverhandlungen oder Marktbedingungen außer Acht, die wichtige Punkte in der Entscheidunge der FinalistInnen gewesen sein könnten. Eine umfassendere Berücksichtigung verschiedener Einflussgrößen könnte zu einem besseren Verständnis der Zusammenhänge führen und ein breiteres Bild abdecken.
+
+3.  In unserer Analyse sind wir oft an die Grenzen der Begrifflichkeiten gestoßen. In Hypothese 1 reden wir etwa von einer größeren Vernetzung und definieren diese anhand der Closeness-Werte. Dass eine größere Vernetzung oder auch Reichweite auch anders definiert werden kann, wurde uns im Laufe des Projektes klar, jedoch durch die Komplexität unserer Daten und Hypothesen erschwert. In Hypothese 2 ist von einem "Sprungbrett" die Rede. Auch hier stößt die Begrifflichkeit an ihre Grenzen.
+
+4.  Innerhalb unserer Datenerhebung haben wir die jeweiligen Jahreszahlen der Verbindungen erhoben, mit der Intention eine zeitliche Dimension zu schaffen. Bei Hypothese 4, die die Beziehung zwischen erreichter Platzierung und Chartplatzierung untersucht, wurde dieser zeitliche Aspekt jedoch vernachlässigt. Denn hier konnte nicht berücksichtigt werden, dass Chartplatzierungen im Laufe der Zeit variieren können und nicht unbedingt sofort nach dem Ende der Show erreicht werden. Dies kann dazu führen, dass wichtige Veränderungen oder Trends übersehen werden, wie etwa, dass Chartplatzierungen vor oder lange nach The Voice of Germany erreicht wurden.
+
+5.  Da in unserer Datenerhebung nur einige Faktoren erhoben wurden, kann bemängelt werden, dass externe Variablen vernachlässigt wurden. Die Reichweite der FinalistInnen kann natürlich auch durch Faktoren wie persönliche Connections oder individuelle Talentstärken beinflusst werden, was sich in unserem Netzwerk kaum abbilden lässt.
+
+6.  Im Generellen wurde in unserer Datenanalyse versucht objektiv über die Forschungsfrage zu berichten und diese zu hinterfragen. Natürlich ist die Interpretation der Ergebnisse jedoch zu Teilen subjektiv und von individuellen Vorurteilen oder Annahmen beeinflusst worden, was die Objektivität und Generalisierbarkeit der Schlussfolgerungen beeinträchtigen könnte.
+
+# 8.3 Forschungsausblick
+
+Im Laufe unserer Forschungsarbeit sind wir auf weitere Aspekte gestoßen, die in Zukunft spannend zu analysieren wären.
+
+Wir haben uns in unserer Forschungsarbeit bereits damit beschäftigt, ob die Reichweite der JurorInnen einen Einfluss darauf hat, inwieweit ihre Teammitglieder im Musikbusiness vernetzt sind. Hierbei haben wir die Reichweite an der Anzahl der monatlichen Spotify Hörer gemessen. In weiteren Analysen wäre es interessant, das tatsächliche Netzwerk der JurorInnen und das ihrer FinalistInnen zu erfassen und Überschneidungen beziehungsweise gemeinsame Verbindungen zu untersuchen. Insbesondere bei sehr bekannten und etablierten FinalistInnen, wie Max Giesinger und Michael Schulte, wäre es spannend zu sehen, ob und wenn ja in welchem Ausmaß das Netzwerk ihrer Coaches zu für sie relevanten Verbindungen geführt hat. Dies wäre auch vor allem bei internationalen Coaches mit einem globalen Netzwerk von Bedeutung. Dazu ist aber eine noch breitere Datenrecherche notwendig, bei der sich zudem auf die Coaches fokussiert wird, und nicht wie jetzt auf die FinalistInnen.
+
+Spannend wäre es zudem zu untersuchen, wie sich die Netzwerke der The Voice of Germany FinalistInnen von denen der KünstlerInnen unterscheiden, die sich ihre Reichweite ausschließlich über Social Media aufgebaut haben. Bilden Castingshows die Grundlage für nachhaltige Netzwerke oder können sich KünstlerInnen, die ihre Karriere unabhängig von Sendern, bindenden Verträgen über Plattformen wie Instagram und TikTok aufgebaut haben, stärkere und beständigere Netzwerke schaffen?
+
+# 8.4 Lessons Learned
+
+Bei der Teamreflexion haben wir noch einmal auf unser Teammanifest zurückgegriffen, das wir zu Beginn unseres Projekts erstellt hatten. Wir konnten feststellen, dass wir einige Punkte genauso erfüllt haben, wie wir es uns vorgenommen hatten. In der Zusammenarbeit konnten wir uns immer aufeinander verlassen. Wir haben als Team zusammengearbeitet, unsere wöchentlichen Treffen eingehalten und jeder hat seinen persönlichen Teil zum Projekt beigetragen. Auch wenn es viele Hürden in unserem Projekt gab, angefangen beim Codebuch, den Berechnungen und vor allem der Visualisierung, haben wir uns nicht unterkriegen lassen. Wir haben gemeinsam als Team an Lösungen gearbeitet und die Aufgaben so verteilt, dass wir so effektiv wie möglich arbeiten konnten. Diejenigen, die ihre Stärken in RStudio oder im Schreiben des Edit-Artikels sahen, arbeiteten auch dort. Trotzdem haben wir uns gegenseitig die Chance gegeben, auch an unseren Schwächen zu arbeiten und konnten so viel voneinander lernen. Vor allem die Datenerhebung und Bereinigung hat bei uns sehr gut funktioniert, da wir uns die Tipps aus den Präsentationen des vierten Semesters sehr zu Herzen genommen haben. Schwierigkeiten hatten wir dagegen vor allem damit, unsere aufgestellten Hypothesen durch Berechnungen zu belegen oder zu widerlegen, da dafür sehr komplizierte Codes benötigt wurden. Auch die Visualisierung fiel uns schwer, da wir noch keine Erfahrung mit Flourish hatten und uns erst in das Programm einarbeiten mussten. Insgesamt sind wir aber mit unserem Zeit- und Teammanagement sehr zufrieden und stolz auf uns, dass wir trotz der vielen Hürden nie aufgegeben haben und immer als Team zusammengehalten haben.
+
+# 9. Anhang
+
+## 9.1 verwendete Literatur
+
+Anders, P., Staiger, M., Albrecht, C., Rüsel, M., & Vorst, C. (2019). Castingshow. In P. Anders, M. Staiger, C. Albrecht, M. Rüsel, & C. Vorst (Hrsg.), *Einführung in die Filmdidaktik: Kino, Fernsehen, Video, Internet* (S. 153–169). J.B. Metzler. <https://doi.org/10.1007/978-3-476-04765-6_11>
+
+Fuhse, J. A. (2018). *Soziale Netzwerke: Konzepte und Forschungsmethoden*. UVK Verlag. <https://www.utb.de/doi/abs/10.36198/9783838549811-57-66>
+
+Hißnauer, C. (2016). Der Traum vom Superstar: Castingshows als neue Form des Musikfilms? In C. Heinze & L. Niebling (Hrsg.), *Populäre Musikkulturen im Film: Inter- und transdisziplinäre Perspektiven* (S. 77–89). Springer Fachmedien. <https://doi.org/10.1007/978-3-658-10896-0_4>
+
+Hornberger, B. (2017). Training für die Wirklichkeit? In H. Schramm & N. Ruth (Hrsg.), *Musikcastingshows: Wesen, Nutzung und Wirkung eines populären Fernsehformats* (S. 37–52). Springer Fachmedien. <https://doi.org/10.1007/978-3-658-17892-5_2>
+
+Klug, D. (2017). Der Hohn macht die Musik. In H. Schramm & N. Ruth (Hrsg.), *Musikcastingshows: Wesen, Nutzung und Wirkung eines populären Fernsehformats* (S. 15–36). Springer Fachmedien. <https://doi.org/10.1007/978-3-658-17892-5_1>
+
+Kurotschka, M. (2007). Verschwimmende Grenzen von Realität und Fiktion: Eine Analyse von »Deutschland sucht den Superstar«. In K. Döveling, L. Mikos, & J.-U. Nieland (Hrsg.), *Im Namen des Fernsehvolkes. Neue Formate für Orientierung und Bewertung.* (S. 117–153). UVK Verlag.
+
+Mutschke, P. (2023). Zentralitäts- und Prestigemaße. In C. Stegbauer & R. Häußling (Hrsg.), *Handbuch Netzwerkforschung* (S. 1–17). Springer Fachmedien. <https://doi.org/10.1007/978-3-658-37507-2_33-1>
+
+Pradtke, A. (2014). *Casting Shows als Märkte für Marktpotentiale: Ökonomische Theorien, Thesen und Tests zum Phänomen der Superstars und zur Gestaltung von „Casting Show“-Formaten* (1. Aufl.). Metropolis.
+
+Rürup, M., Röbken, H., Emmerich, M., & Dunkake, I. (2015). Grundlagen der sozialen Netzwerkanalyse. In M. Rürup, H. Röbken, M. Emmerich, & I. Dunkake (Hrsg.), *Netzwerke im Bildungswesen: Eine Einführung in ihre Analyse und Gestaltung* (S. 19–31). Springer Fachmedien Wiesbaden. <https://doi.org/10.1007/978-3-658-06737-3_2>
+
+Schramm, H., Ruth, N., & Spangardt, B. (2017). The Voice of the Music Industry. In H. Schramm & N. Ruth (Hrsg.), *Musikcastingshows: Wesen, Nutzung und Wirkung eines populären Fernsehformats* (S. 225–249). Springer Fachmedien. <https://doi.org/10.1007/978-3-658-17892-5_10>
+
+Wirtz, B. W. (2023). *Medien- und Internetmanagement* (S. 571–625). Springer Fachmedien Wiesbaden. <https://doi.org/10.1007/978-3-658-39832-3_13>
+
+Wolf, C., & Repke, L. (2024). Egozentrierte Netzwerke. In C. Stegbauer & R. Häußling (Hrsg.), *Handbuch Netzwerkforschung* (S. 1–13). Springer Fachmedien Wiesbaden. <https://doi.org/10.1007/978-3-658-37507-2_41-1>
+
+## 9.2 Link auf Github Account, Edge- und Nodelist
+
+<https://github.com/EmilySeemann/TheVoice/tree/main>
+
+## 9.3 Codebuch (Link auf Github)
+
+<https://raw.githubusercontent.com/EmilySeemann/TheVoice/main/Codebuch.md>
+
+## 9.4 Verwendete Datenquellen
+
+-   Wikipedia (Überblick über TeilnehmerInnen, JurorInnen, Staffel)
+
+-   Munzinger Archiv (Lebensläufe von relevanten Personen)
+
+-   Universal Music Group (Verträge, Songveröffentlichungen, etc.)
+
+-   Bertelsmann Music Group (Verträge, Songveröffentlichungen, etc.)
+
+-   Offizielle deutsche Charts (Überblick über Chart-Platzierungen der MusikschöpferInnen)
+
+-   Social Media Kanäle der KanidatInnen, insbesondere Instagram (Überblick über Kooperationen, andere Arbeitsverhältnisse, Showteilnahmen, etc.)
+
+-   eigene Websites der KandidatInnen (Überblick über Karrierewege, Arbeitsverhältnisse, etc.)
+
+-   Spotify (Musikalische Kooperationen mit anderen MusikschöpferInnen, Plattenlabels, etc.)
+
+-   Zeitungsartikel, crossmedialer Content (Interviews mit den KandidatInnen/Coaches haben weitere Informationen und Detaills offenbart)
+
+## 9.5 Komplettes annotiertes RNotebook (Link auf Github)
+
+https://github.com/EmilySeemann/TheVoice/blob/main/FB_TheVoice_Notebook.nb.html
+
+## 9.6 TeilnehmerInnen des Projekts und Arbeitsaufwand im Projekt.
+
+Mara Remmlinger, Emily Seemann, Florin Braun, Hanna Mihm Ruiz
+
+Hier der Link zur Dokumentation des Arbeitsaufwands im Projekt: <https://raw.githubusercontent.com/EmilySeemann/TheVoice/main/Zeiterfassung_TheVoice.md>
+
+## 9.7 Promt und Ergebnis - ChatGPT
+
+Nachfolgend sind sowohl unsere Promts als auch die Ergebnisse von ChatGPT dokumentiert. Es wurden Zwischenfragen, ausführliche Erklärungen und unsere eigenen Codeideen beziehungsweise Fehlermeldungen aus Gründen der Übersichtlichkeit nicht mit aufgenommen. 
+Wir haben uns jeden der Codes verständlich erklären lassen und stets nachvollziehen können, warum der Code auf diese Weise generiert wurde.
+
+ChatGPT 1:
+
+Promt: Du bist ein Experte für soziale Netzwerkanalyse und verwendest dafür ausschließlich die Programmiersprache R. Unsere bevorzugten Programmbibliotheten sind tidyverse, igraph, (optional tidygraph, ggraph und ggnet). Du hilfst Studierenden bei ihren Projekten und sprichst in einer einfachen, direkten Sprache. Du kannst Code in Markdown erstellen und beim Vertändnis des Codes weiterhelfen. Bitte annotiere Deinen Code entsprechend und trenne Codechunks von Interpretation. Kannst du mir helfen, einen R-Code zu schreiben, der ein Netzwerk visualisiert, wobei verschiedene Farben für unterschiedliche Rollen und Beziehungen der Knoten und Kanten verwendet werden? Ich möchte auch, dass die Knoten und Kanten basierend auf ihren Attributen 'role' und 'relation' farblich unterschieden werden.
+
+Ergebnis:
+
+```{r}
+# library(igraph)
+# library(tidyverse)
+# 
+# # Beispiel Daten erstellen
+# nodes <- data.frame(
+#   name = c("A", "B", "C", "D", "E"),
+#   role = c(1, 2, 1, 3, 2),
+#   size = c(10, 20, 15, 10, 25)
+# )
+# 
+# edges <- data.frame(
+#   from = c("A", "A", "B", "C", "D", "E"),
+#   to = c("B", "C", "C", "D", "E", "A"),
+#   relation = c(1, 2, 1, 3, 2, 3)
+# )
+# 
+# # Graph-Objekt erstellen
+# graph <- graph_from_data_frame(edges, directed=FALSE, vertices=nodes)
+# 
+# # Funktion, um Farben basierend auf 'role' zuzuweisen
+# assign_colors_to_roles <- function(role) {
+#   ifelse(role == 1, "blue",
+#     ifelse(role == 2, "red",
+#       ifelse(role == 3, "green", "orange")))
+# }
+# 
+# # Funktion, um Farben basierend auf 'relation' zuzuweisen
+# assign_colors_to_relations <- function(relation) {
+#   ifelse(relation == 1, "cyan",
+#     ifelse(relation == 2, "magenta",
+#       "black"))
+# }
+# 
+# 
+# # Netzwerk visualisieren
+# plot(graph, 
+#      layout=layout_with_fr(graph), # Force-directed layout
+#      vertex.size=V(graph)$size, # Größe basierend auf dem 'size' Attribut
+        # Farben basierend auf 'role'
+#      vertex.color=sapply(V(graph)$role, assign_colors_to_roles), 
+        # Farben basierend auf 'relation'
+#      edge.color=sapply(E(graph)$relation, assign_colors_to_relations), 
+#      vertex.label=V(graph)$name, # Knotennamen als Beschriftungen
+#      vertex.label.color="white", # Beschriftungsfarbe
+#      vertex.frame.color="gray", # Rahmenfarbe der Knoten
+#      main="Netzwerk Visualisierung") # Titel des Plots
+
+```
+
+ChatGPT 2:
+
+Promt: Du bist ein Experte für soziale Netzwerkanalyse und verwendest dafür ausschließlich die Programmiersprache R. Unsere bevorzugten Programmbibliotheten sind tidyverse, igraph, (optional tidygraph, ggraph und ggnet). Du hilfst Studierenden bei ihren Projekten und sprichst in einer einfachen, direkten Sprache. Du kannst Code in Markdown erstellen und beim Vertändnis des Codes weiterhelfen. Bitte annotiere Deinen Code entsprechend und trenne Codechunks von Interpretation. Ich möchte eine umfassende Analyse der Gewinner der letzten dreizehn Staffeln von 'The Voice of Germany' durchführen. Mein Ziel ist es, ihre Beziehungen zu anderen Künstlern, Produzenten, Songwritern, Labels oder anderen Shows zu untersuchen und darzustellen. Wie schaffe ich es, dass ich sozusagen alle "Ego-Netzwerke" der einzelnen KandidatInnen kombiniere, ohne, dass irgendwelche Verbindungen verloren gehen. Hier der Code, den ich bisher habe: (...)
+
+Ergebnis:
+
+
+```{r}
+# # Lade benötigte Bibliotheken
+# library(tidyverse)
+# library(igraph)
+# 
+# # Identifiziere die Gewinner der letzten dreizehn Staffeln
+# winner_ids <- tv %>%
+#   filter(Platz == 1) %>%
+#   pull(name)
+# 
+# # Funktion zur Erstellung der Ego-Netzwerke für jeden Gewinner
+# create_ego_network <- function(winner_id, data) {
+#   ego_network <- data %>%
+#     filter(name == winner_id) %>%
+#     make_ego_graph(order = 1, mode = "all")
+#   return(ego_network)
+# }
+# 
+# # Erstelle die Ego-Netzwerke für jeden Erstplatzierten
+# ego_networks <- lapply(winner_ids, function(w) make_ego_graph(tv, order=1, nodes=which(V(tv)$name == w), mode="all"))
+# 
+# # Kombiniere die Ego-Netzwerke in ein einzelnes Graph-Objekt
+# erstplatzierte_ego <- do.call(graph.union, ego_networks)
+# 
+# # Stelle sicher, dass Duplikate von Kanten und Knoten entfernt werden
+# erstplatzierte_ego <- simplify(erstplatzierte_ego)
+
+```
